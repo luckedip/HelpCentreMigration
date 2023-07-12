@@ -1,0 +1,2731 @@
+{
+    "data": {
+      "allHelp_articles": {
+        "edges": [
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0uKxAAAB4AbBll"
+              },
+              "title": "Mathematics and Statistics skills and careers",
+              "description": "Skills, career opportunities and employment related to study of mathematics and statistics",
+              "keywords": "maths and stats, maths, stats, statistics, skills",
+              "audiences": "public, student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "introduction",
+                  "primary": {
+                    "introduction_text": "Mathematics and Statistics skills are indispensable problem-solving and decision-making tools at the heart of advances in many areas of life. Opportunities for graduates and postgraduates are available throughout industry and commerce."
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "heading2",
+                        "text": "Skills you can develop",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "As well as the specific knowledge gained from studying for an OU degree, you'll develop many transferable and work-related skills that are highly valued by employers and which will increase your employability.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "For Mathematics and Statistics students the employability skills you will develop include the ability to:",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "use mathematics and statistics to help develop solutions to practical problems",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "follow complex mathematical and statistical arguments and to develop brief arguments of your own",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "work with mathematical and statistical computer software packages",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "find, extract and analyse data from many sources",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "communicate mathematical and statistical information effectively",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "manage your time and employ good organisational skills",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "work with patience and persistence.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "To see specific learning outcomes related to the degrees in this area have a look at OU Mathematics and Statistics Courses.",
+                        "spans": [
+                          {
+                            "start": 85,
+                            "end": 122,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "http://www.open.ac.uk/courses/find/mathematics-and-statistics"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "To check which skills valued by employers can be developed from studying a particular subject, look at the 'What can I do with my degree' pages on the Prospects website.",
+                        "spans": [
+                          {
+                            "start": 151,
+                            "end": 160,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://www.prospects.ac.uk/careers-advice/what-can-i-do-with-my-degree"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "The OU Careers and Employability Services define student employability as: 'A set of capabilities and achievements that support students in developing their careers, raising their aspirations and enhancing their contribution to society'.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Whatever your motivations for study, your goals and career aspirations, you are entitled to supported personal development planning either as an intrinsic part of your programme of study or through signposted optional activities. You can view our full Student Employability Policy Statement on our website.",
+                        "spans": [
+                          {
+                            "start": 252,
+                            "end": 290,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://help.open.ac.uk/documents/policies/employability"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you’re a registered OU student you can find further careers information tailored to your qualification at your Study Home site under the Succeed tab.",
+                        "spans": [
+                          {
+                            "start": 114,
+                            "end": 129,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://learn2.open.ac.uk/course/format/ousubject/redirect.php"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "OU qualifications",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Find out more about undergraduate study in Mathematics and Statistics.",
+                        "spans": [
+                          {
+                            "start": 43,
+                            "end": 69,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "http://www.open.ac.uk/courses/find/mathematics-and-statistics"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Find out more about postgraduate study in Postgraduate Courses.",
+                        "spans": [
+                          {
+                            "start": 42,
+                            "end": 62,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "http://www.open.ac.uk/postgraduate/"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Find out about all undergraduate and postgraduate qualifications at OU Courses.",
+                        "spans": [
+                          {
+                            "start": 68,
+                            "end": 78,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "http://www.open.ac.uk/courses"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "You can also find more information on the Maths Choices website.",
+                        "spans": [
+                          {
+                            "start": 42,
+                            "end": 55,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "http://mathschoices.open.ac.uk/"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr1GbBAAACAAbIt7"
+              },
+              "title": "Health and Social Care skills and careers",
+              "description": "Skills, career opportunities and employment related to study of health and social care",
+              "keywords": "health and social care, social work, nursing, skills",
+              "audiences": "public, student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "introduction",
+                  "primary": {
+                    "introduction_text": "The Health and Social Care sector is undergoing radical and rapid change. Developments in frontline health and social care mean there's a demand for well-trained and multi-skilled people across a range of rewarding employment opportunities."
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "heading2",
+                        "text": "Skills you can develop",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "As well as the specific subject knowledge gained from studying for an OU degree, you'll develop many transferable and work-related skills that are highly valued by employers and which will increase your employability.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "For Health and Social Care students the employability skills you will develop include the ability to:",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "draw together, analyse and critically evaluate information",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "communicate effectively with individuals, groups and organisations",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "produce accurate records and make informed decisions",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "think logically and propose reasoned solutions",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "put together well-judged arguments and question assumptions",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "manage time, learn independently and use ICT effectively",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "work as part of a team and take on responsibility",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "write concisely, clearly and accurately",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "interpret, use and evaluate various types of data",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "relate knowledge gained to situations in health and social care.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "These transferable skills are applicable to a wide range of graduate careers both within and outside the Health and Social Care sector.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "To check which skills valued by employers can be developed from studying a particular subject, look at the Student Employability Profiles on the Higher Education Academy website. You will also find information about employability skills developed through study of specific degree subjects on the Prospects website.",
+                        "spans": [
+                          {
+                            "start": 107,
+                            "end": 137,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://www.advance-he.ac.uk/knowledge-hub/student-employability-profiles"
+                            }
+                          },
+                          {
+                            "start": 296,
+                            "end": 305,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://www.prospects.ac.uk/careers-advice/what-can-i-do-with-my-degree"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "The OU Careers and Employability Services define student employability as `A set of capabilities and achievements that support students in developing their careers, raising their aspirations and enhancing their contribution to society`.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Whatever your motivations for study, your goals and career aspirations, you are entitled to supported personal development planning either as an intrinsic part of your programme of study or through signposted optional activities. You can view our full Student Employability Policy Statement on our website.",
+                        "spans": [
+                          {
+                            "start": 252,
+                            "end": 290,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://help.open.ac.uk/documents/policies/employability"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Student stories",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "quote",
+                  "primary": {
+                    "quote_text": null,
+                    "quote_layout": "Fullwidth",
+                    "quote_citation": null
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "John Pierre-Madigan, Probation Worker",
+                        "spans": [
+                          {
+                            "start": 0,
+                            "end": 37,
+                            "type": "hyperlink",
+                            "data": {
+                              "id": "Xr0uKxAAAB4AbBjn",
+                              "type": "help_article",
+                              "tags": [],
+                              "lang": "en-gb",
+                              "slug": "john-pierre-madigan-probation-worker",
+                              "first_publication_date": "2020-05-14T11:40:49+0000",
+                              "last_publication_date": "2020-10-01T14:45:48+0000",
+                              "link_type": "Document",
+                              "isBroken": false
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "quote",
+                  "primary": {
+                    "quote_text": null,
+                    "quote_layout": "Fullwidth",
+                    "quote_citation": null
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "Julie-Anne Howard, trainee social worker",
+                        "spans": [
+                          {
+                            "start": 0,
+                            "end": 40,
+                            "type": "hyperlink",
+                            "data": {
+                              "id": "Xr0uKxAAAB4AbBkl",
+                              "type": "help_article",
+                              "tags": [],
+                              "lang": "en-gb",
+                              "slug": "julie-anne-howard-trainee-social-worker",
+                              "first_publication_date": "2020-05-14T11:40:49+0000",
+                              "last_publication_date": "2020-10-01T14:48:21+0000",
+                              "link_type": "Document",
+                              "isBroken": false
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "quote",
+                  "primary": {
+                    "quote_text": null,
+                    "quote_layout": "Fullwidth",
+                    "quote_citation": null
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "Jasmina Banicek, Nurse",
+                        "spans": [
+                          {
+                            "start": 0,
+                            "end": 22,
+                            "type": "hyperlink",
+                            "data": {
+                              "id": "Xr0uKxAAAB4AbBnT",
+                              "type": "help_article",
+                              "tags": [],
+                              "lang": "en-gb",
+                              "slug": "jasmina-banicek-nurse",
+                              "first_publication_date": "2020-05-14T11:40:49+0000",
+                              "last_publication_date": "2020-10-01T14:41:49+0000",
+                              "link_type": "Document",
+                              "isBroken": false
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "quote",
+                  "primary": {
+                    "quote_text": null,
+                    "quote_layout": "Fullwidth",
+                    "quote_citation": null
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "Kate Brown, Trainee Psychological Wellbeing Practitioner (PWP)",
+                        "spans": [
+                          {
+                            "start": 0,
+                            "end": 62,
+                            "type": "hyperlink",
+                            "data": {
+                              "id": "Xr1GbBAAACAAbIw8",
+                              "type": "help_article",
+                              "tags": [],
+                              "lang": "en-gb",
+                              "slug": "kate-brown-trainee-psychological-wellbeing-practitioner-pwp",
+                              "first_publication_date": "2020-05-14T13:25:44+0000",
+                              "last_publication_date": "2020-10-01T15:04:35+0000",
+                              "link_type": "Document",
+                              "isBroken": false
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "heading2",
+                        "text": "OU qualifications",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Find out more about undergraduate study and postgraduate study in Health and Social care.",
+                        "spans": [
+                          {
+                            "start": 20,
+                            "end": 39,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "http://www.open.ac.uk/courses/find/nursing-and-healthcare-practice"
+                            }
+                          },
+                          {
+                            "start": 44,
+                            "end": 62,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "http://www.open.ac.uk/postgraduate/"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Learn more about the School of Health, Wellbeing and Social Care within the OU Faculty of Wellbeing, Education and Language Studies (WELS).",
+                        "spans": [
+                          {
+                            "start": 90,
+                            "end": 138,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "http://wels.open.ac.uk/"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0uKxAAAB4AbBmt"
+              },
+              "title": "Computing and IT skills and careers",
+              "description": "Skills, career opportunities and employment related to study of computing and IT",
+              "keywords": "computing and it, it, computing, ict, careers, skills",
+              "audiences": "public, student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "ICT and computing graduates are in demand by service and user organisations alike, in a range of sectors.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Skills you can develop",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "As well as the specific subject knowledge gained from studying for an OU degree, you'll develop many transferable and work-related skills that are highly valued by employers and which will increase your employability.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "For Computing and ICT students the employability skills you will develop will include the ability to:",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "draw together, analyse and critically evaluate information",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "cope with rapid changes in technology",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "interpret, use and evaluate data",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "put together reasoned arguments and question assumptions",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "be effective communicators, capable of team working",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "understand the principles, concepts and techniques associated with the technology of computers and digital communication systems",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "identify and handle ethical, social and legal issues in relation to software development and use",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "design, program, test and evaluate software systems",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "manage time, learn independently and take on responsibility.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "To see specific learning outcomes related to degrees in this area have a look at the OU Computing and IT Courses.",
+                        "spans": [
+                          {
+                            "start": 85,
+                            "end": 112,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "http://www.open.ac.uk/courses/find/computing-and-it"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Many students wonder what they can do with a degree in their given subject area but it is important first of all to set things within a context - successfully entering a new career will depend on factors that are broader than the qualification itself because your work experience together with your personal strengths and characteristics will all play a crucial part in whether or not employers will accept you.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "To check which skills valued by employers can be developed from studying a particular subject, look at the ‘What can I do with my degree?’ pages on the Prospects website.",
+                        "spans": [
+                          {
+                            "start": 152,
+                            "end": 169,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://www.prospects.ac.uk/careers-advice/what-can-i-do-with-my-degree"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "The OU Careers and Employability Services define student employability as: 'A set of capabilities and achievements that support students in developing their careers, raising their aspirations and enhancing their contribution to society'.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Whatever your motivations for study, your goals and career aspirations, you are entitled to supported personal development planning either as an intrinsic part of your programme of study or through signposted optional activities. You can view our full Student Employability Policy Statement on our website.",
+                        "spans": [
+                          {
+                            "start": 252,
+                            "end": 290,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://help.open.ac.uk/documents/policies/employability"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you’re a registered OU student, you can find further careers information tailored to your qualification at your Study Home site under the Succeed tab.",
+                        "spans": [
+                          {
+                            "start": 115,
+                            "end": 130,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://learn2.open.ac.uk/course/format/ousubject/redirect.php"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Student stories",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "quote",
+                  "primary": {
+                    "quote_text": null,
+                    "quote_layout": "Fullwidth",
+                    "quote_citation": null
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "Joce Rakower-Butelet",
+                        "spans": [
+                          {
+                            "start": 0,
+                            "end": 20,
+                            "type": "hyperlink",
+                            "data": {
+                              "id": "Xr0uKxAAAB4AbBoN",
+                              "type": "help_article",
+                              "tags": [],
+                              "lang": "en-gb",
+                              "slug": "joce-rakower-butelet-service-manager-business-process-solutions-engineer",
+                              "first_publication_date": "2020-05-14T11:40:49+0000",
+                              "last_publication_date": "2020-10-01T13:39:33+0000",
+                              "link_type": "Document",
+                              "isBroken": false
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "quote",
+                  "primary": {
+                    "quote_text": null,
+                    "quote_layout": "Fullwidth",
+                    "quote_citation": null
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "Simon Hargrave",
+                        "spans": [
+                          {
+                            "start": 0,
+                            "end": 14,
+                            "type": "hyperlink",
+                            "data": {
+                              "id": "Xr0uKxAAAB4AbBpH",
+                              "type": "help_article",
+                              "tags": [],
+                              "lang": "en-gb",
+                              "slug": "simon-hargrave-information-and-data-manager",
+                              "first_publication_date": "2020-05-14T11:40:49+0000",
+                              "last_publication_date": "2020-10-01T13:45:57+0000",
+                              "link_type": "Document",
+                              "isBroken": false
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "To see the experiences of other OU students visit 'What do OU students do'.",
+                        "spans": [
+                          {
+                            "start": 51,
+                            "end": 73,
+                            "type": "hyperlink",
+                            "data": {
+                              "id": "Xr0u8hAAACAAbCDb",
+                              "type": "help_collection",
+                              "tags": [],
+                              "lang": "en-gb",
+                              "slug": "what-do-ou-students-do",
+                              "first_publication_date": "2020-05-14T11:44:21+0000",
+                              "last_publication_date": "2022-04-14T11:28:53+0000",
+                              "link_type": "Document",
+                              "isBroken": false
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "OU qualifications",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Find out more about undergraduate study and postgraduate study in Computing and IT and about all undergraduate and postgraduate qualifications at OU Courses.",
+                        "spans": [
+                          {
+                            "start": 20,
+                            "end": 39,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "http://www.open.ac.uk/courses/find/computing-and-it"
+                            }
+                          },
+                          {
+                            "start": 44,
+                            "end": 62,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "http://www.open.ac.uk/postgraduate/"
+                            }
+                          },
+                          {
+                            "start": 146,
+                            "end": 156,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "http://www.open.ac.uk/courses"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0eshAAACIAa9zQ"
+              },
+              "title": "Religion, belief and your study",
+              "description": "Details of the support available when your religion or beliefs may have an impact on your studies.",
+              "keywords": null,
+              "audiences": "student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "introduction",
+                  "primary": {
+                    "introduction_text": "The Open University offers a range of support to students whose religion or beliefs may have an impact on their studies."
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "We can provide support",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "icon_list",
+                  "fields": [
+                    {
+                      "list_item": null
+                    },
+                    {
+                      "list_item": null
+                    }
+                  ],
+                  "primary": {
+                    "list_style": "Ticks"
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "The support available will depend on individual circumstances, but may include making special arrangements for:",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "icon_list",
+                  "fields": [
+                    {
+                      "list_item": null
+                    },
+                    {
+                      "list_item": null
+                    },
+                    {
+                      "list_item": null
+                    },
+                    {
+                      "list_item": null
+                    },
+                    {
+                      "list_item": null
+                    }
+                  ],
+                  "primary": {
+                    "list_style": "Ticks"
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "Our Student religion and belief: policy and guidance gives further information, including details of how to request additional support.",
+                        "spans": [
+                          {
+                            "start": 4,
+                            "end": 52,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://help.open.ac.uk/documents/policies/religion-and-belief"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0uohAAACAAbB32"
+              },
+              "title": "Working with images in your documents",
+              "description": "Guidance on resizing images to reduce file size.",
+              "keywords": "resize, online, format, jpeg, png, file size, images, pictures",
+              "audiences": "student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": "2nd page of this article removed. Any useful content added to first page with links out to Mac and Microsoft guidance rather than us telling students how to do it in different wordprocessing packages which is what the 2nd page was doing.",
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "When you’re preparing an assignment, it's important to be aware of the file size of the document. For submission using the online submission system a single file should be no larger than 10MB unless your module tells you otherwise. If you've included images in your document, they can take up a lot of the file size. If you need to, you can reduce the file size of images to reduce the overall document file size.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "File size is different to how big the image looks on the page. If you reduce the size of the picture box in your Word document it won’t change the file size. The easiest way to reduce the file size is to reduce the resolution of the image. An image that was originally prepared for print will be of a higher resolution which is not necessary for your assignments.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "You can check the file size of an image by opening the folder you've stored the image in and right-clicking on the image name and selecting Properties from the list (on a Mac you'll need the Get Info window).",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "It also helps if you save images in the best format before you insert them into your document.",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "JPEG format for photos.",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "PNG format for screenshots or diagrams.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "You'll need to find the advice on how to reduce the file size of an image for the word processing software you're using. Use these links for information on the most common word processing packages.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "link_list",
+                  "fields": [
+                    {
+                      "link_list_link": {
+                        "_linkType": "Link.web",
+                        "__typename": "_ExternalLink",
+                        "url": "https://support.microsoft.com/en-gb/office/reduce-the-file-size-of-a-picture-in-microsoft-office-8db7211c-d958-457c-babd-194109eb9535?ui=en-us&rs=en-gb&ad=gb"
+                      },
+                      "link_list_title": "Reduce the file size of a picture in Microsoft Office",
+                      "link_list_description": null
+                    },
+                    {
+                      "link_list_link": {
+                        "_linkType": "Link.web",
+                        "__typename": "_ExternalLink",
+                        "url": "https://support.apple.com/en-gb/guide/pages/tan0a3e805bf/mac"
+                      },
+                      "link_list_title": "Reduce a document's file size in Pages for Mac",
+                      "link_list_description": null
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "The OU Computing Guide also has some advice on Compressing images in documents.",
+                        "spans": [
+                          {
+                            "start": 47,
+                            "end": 78,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://learn1.open.ac.uk/mod/oucontent/view.php?id=12769&section=2"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0u8hAAACAAbCFx"
+              },
+              "title": "Setting up separate accounts on your computer",
+              "description": "The benefits of a separate account for study on your computer",
+              "keywords": "distractions, productivity, concentration, parental controls,",
+              "audiences": "student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": {
+                    "url": "https://edu.gcfglobal.org/en/topics/windows/"
+                  },
+                  "related_links_title": "LearnFree (PC users)",
+                  "related_links_description": null
+                },
+                {
+                  "related_links_link": {
+                    "url": "https://support.apple.com/en-gb/guide/mac-help/mtusr001/mac"
+                  },
+                  "related_links_title": "Apple support (Mac users)",
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": true,
+              "notes": null,
+              "body": [
+                {
+                  "type": "introduction",
+                  "primary": {
+                    "introduction_text": "This article describes the benefits of separate accounts on your computer, but doesn't go into details about how to set them up. The procedures vary between versions of operating systems and we provide useful links at the foot of this article to help you."
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "Many people share their computer with family members or work colleagues. Fortunately, modern operating systems make it easy for each person to have their own private space on the computer so that there's no mixing up of files and resources. Even if you have sole use of your computer there’s a case for maintaining more than one account.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Security, peace of mind and greater productivity",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "As a student working online, you'll invest many hours in gathering material, saving it, annotating it and writing about it. You can safeguard that work by preventing any interference, intentional or otherwise, by other people. With your own account, protected with a private password, you get peace of mind.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "There’s also a worthwhile boost in productivity because everything is where you left it when you last used the computer.",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "The list of recently used files in the word processor is the list of files you last used, not those that other people used.",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Your email program contains only your accounts and you can quickly see what’s new and important.",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "You can set up rules in email to process your incoming post without it tangling with other people’s post.",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Your bookmarks and browsing history are as you left them and don't include other's browsing history.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Reduce distractions with a study-only account",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "It's a recognised characteristic of online study that the distractions of the wider internet can draw attention away from the business of learning. If you waste time on distractions you might want to consider setting up a study-only account. It isn’t for everybody but it can really benefit your concentration.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "You set up a separate account as a non-administrator (Standard) account that limits the scope of what you can do. You can arrange to access only your OU-related email accounts, and all your browser bookmarks would be study related. You could even use the parental controls to block browser access to the most tempting websites and applications.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "It’s the online equivalent of making a good working atmosphere in your place of study, with as few distractions as possible.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "You can, of course, still get to all the distractions easily by signing out of your study account and in to your normal account.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0uohAAACAAbB3E"
+              },
+              "title": "Speak, don’t type: using speech to text",
+              "description": "The accuracy of speech to text dictation means that it is now a viable alternative to typing. The implementations in Windows, Mac OS X, iOS and Android are introduced.",
+              "keywords": "Recognition, Siri, dictate, Dragon, Windows, Mac OS X, iOS, Android, spoken, my computer my way, abilitynet",
+              "audiences": "student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "Speech to text is a widely available function on PCs, Macs and mobile devices. People who find typing slow, difficult or impossible, can benefit from using speech to text technology.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Most computers will come with a built in microphone. However, if yours doesn't or you're not getting good results using the built in microphone for dictation, you can get an external microphone. These are inexpensive and easy to install. Headsets also work well with dictation programmes.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "A headset is a good idea if you're studying in an area with a lot of background noise as it holds the microphone close to your lips thereby reducing any background noise. The dictation software will cope with measured, well enunciated speech; try not to speak too quickly. You don't have to train the software to learn your particular voice.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Dictation software can do two things:",
+                        "spans": []
+                      },
+                      {
+                        "type": "o-list-item",
+                        "text": "Control your computer – opening and closing programmes, selecting commands from menus and so on.",
+                        "spans": []
+                      },
+                      {
+                        "type": "o-list-item",
+                        "text": "Dictate text into a document.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Both types of functionality have a set of commands and conventions that have to be learned. Most will require internet access to process the information.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "AbilityNet Talking to your device has information on talking to your mobile or tablet, both iOS and Android, and talking to your computer.",
+                        "spans": [
+                          {
+                            "start": 0,
+                            "end": 33,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://mcmw.abilitynet.org.uk/impairment/talking-to-your-device"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0uKxAAAB4AbBlP"
+              },
+              "title": "Evaluating websites and content",
+              "description": "Criteria for judging the reliability of information you find on the web",
+              "keywords": "Google, Bing, Duckduckgo, Yahoo, Jeeves, search tools, effective search, advanced search,",
+              "audiences": "public, student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "It’s easy enough to find information online, but it’s sometimes harder to assess whether it’s reliable, current, or correct. Anyone can write anything they want, and can claim to be anyone they like.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "There are three simple questions to ask yourself to help you to work out whether you want to rely on the information it contains.",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Who is the author? – Try to find some information on the site that tells you who the author is. This could be in an 'About us' section, or in the contact details. Does the author have some authority in terms of the information on a site? Check that the site content is objective and that it is not biased to one particular viewpoint.",
+                        "spans": [
+                          {
+                            "start": 0,
+                            "end": 19,
+                            "type": "strong"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Do the aims of the site match the content? – If the site does present biased information often the author will explain why, and this may help you assess the reliability of the information.",
+                        "spans": [
+                          {
+                            "start": 0,
+                            "end": 42,
+                            "type": "strong"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "When was the content produced? – Look when it was last updated.",
+                        "spans": [
+                          {
+                            "start": 0,
+                            "end": 31,
+                            "type": "strong"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "For an introduction to skills for working online take a look at the Library's Being digital website. It contains a collection of short, easy to follow activities covering the skills needed to be effective online, including evaluating and trusting online content.",
+                        "spans": [
+                          {
+                            "start": 78,
+                            "end": 99,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://www.open.ac.uk/libraryservices/beingdigital/"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0uohAAACAAbB0c"
+              },
+              "title": "Setting up bookmarks in your browser",
+              "description": "How to bookmark websites and keep track of your bookmarks.",
+              "keywords": "Favourites, favorites, bookmarking a page, organising bookmarks, bookmark folder",
+              "audiences": "public, student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "A bookmark is a handy link to take you back to a web page you’ve previously visited.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "To make a bookmark of the page you’re on, press Ctrl + D (Cmd-D on a Mac). A box opens that gives a suggested name for the bookmark, usually the title of the page, which you can change. It also suggests the last folder you filed a bookmark into or you can select a different folder or set up a new folder.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Organising your bookmarks",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "It’s good to be organised with filing your bookmarks as it’s very difficult to find an individual bookmark within a massive list. Folders can be used to keep them organised, however the folders themselves need to be kept organised as well.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "It’s well worth thinking of how you will file the bookmarks you’ve made for your Open University study so you can easily find them when needed.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "You can search the internet to find ‘how to create bookmark folders’ for the latest instructions for your browser.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0uohAAACAAbB5g"
+              },
+              "title": "Your OU online appearance",
+              "description": "How to change your appearance when you post to OU blogs and forums, etc.",
+              "keywords": "OU Profile, change name,",
+              "audiences": "student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "You have two types of OU profile:",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "your online appearance, which appears against your name when you post to OU forums, blogs and wikis.",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "and your administration profile, which contains your contact details for administrative purposes, described as your OU Profile in Student home in the Profile link.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "To access either profile, click the Profile link in StudentHome.",
+                        "spans": [
+                          {
+                            "start": 36,
+                            "end": 48,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://msds.open.ac.uk/students/profile.aspx"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you have written something on your module website, for example in a forum, blog or wiki, you can also access your profile by clicking on the link to your name that is displayed next to your post, and then on Full profile.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Further information on how to manage your profile can be found in the Computing guide.",
+                        "spans": [
+                          {
+                            "start": 70,
+                            "end": 85,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://learn1.open.ac.uk/mod/oucontent/view.php?id=12828"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Default online appearance profile",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Your default profile is visible to everyone in the OU and shows your name and a link to your personal blog. Sharing this information online is helpful, as it makes it easier for people to identify you. This basic information is taken from OU records and can't be amended on the profile pages.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Information on how to update your basic information (eg a change of surname due to marriage) can be found at Changing your name, password, address, etc..",
+                        "spans": [
+                          {
+                            "start": 109,
+                            "end": 152,
+                            "type": "hyperlink",
+                            "data": {
+                              "id": "Xr0uKxAAAB4AbBkj",
+                              "type": "help_article",
+                              "tags": [
+                                "Opening hours"
+                              ],
+                              "lang": "en-gb",
+                              "slug": "update-your-profile-change-your-name-address-password",
+                              "first_publication_date": "2020-05-14T11:40:49+0000",
+                              "last_publication_date": "2022-12-20T13:14:32+0000",
+                              "link_type": "Document",
+                              "isBroken": false
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Further information on correct use of your online profile can be found in the Student Computing Policy.",
+                        "spans": [
+                          {
+                            "start": 78,
+                            "end": 102,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://help.open.ac.uk/documents/policies/computing"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0dSBAAAB8Aa9Rm"
+              },
+              "title": "Reports",
+              "description": "The different types of reports you may be asked to write and how may be structured.",
+              "keywords": "Reports, report structure, how to write a report, how to draft a report",
+              "audiences": "public, student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "Some modules ask students to produce reports. There are four main types of report:",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "information or description reports",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "reports of investigations or studies",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "maths reports",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "science reports.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "These are composed of different sections, which can vary according to what is specified in your assignment or module guide. Always refer to your module materials to find out what sections might be required in your assignment.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "The title of a report asks the question to be addressed and indicates the topic. Within the report itself you may need to incorporate the following sections.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Abstract",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "In a science or maths report this includes what was done, how it was done and what the main findings were. In an information report this is a short paragraph that summarises the main findings.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Introduction",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "In a maths report this outlines the aim of the report and gives essential background information, including the context where applicable, and defines key terms. In a science report this outlines the aim of the report and explains why the investigation was undertaken and places it in the context of previous work. In an information report this outlines the aim of the report and includes background information. It defines key terms and indicates how you approach the question. It might be appropriate to explain what you don't intend to write about – thus indicating the scope of your report.",
+                        "spans": [
+                          {
+                            "start": 5,
+                            "end": 17,
+                            "type": "strong"
+                          },
+                          {
+                            "start": 166,
+                            "end": 180,
+                            "type": "strong"
+                          },
+                          {
+                            "start": 320,
+                            "end": 338,
+                            "type": "strong"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Main body",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "This main section may also include sub-sections such as a discussion, results or findings, and the methodology. A maths report is likely to include sections in its main body on",
+                        "spans": [
+                          {
+                            "start": 113,
+                            "end": 126,
+                            "type": "strong"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "modelling: the assumptions made, a description of the model including the choice of variables and parameters, the mathematics used and interpretation and evaluation of results",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "proofs: includes a statement of what is to be proved and details of the proof",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "history: includes a list of both supporting and opposing facts and then develops the argument.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "In a science report the main body generally comprises",
+                        "spans": [
+                          {
+                            "start": 5,
+                            "end": 19,
+                            "type": "strong"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "materials and methods: the experimental details",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "results: the results of the experiments performed. A commentary accompanies data presented in the form of graphs, tables, images or diagrams",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "discussion: a critical interpretation of the results presented in the context of other researchers' observations.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "In an information report the main body should be divided into sections, possibly with sub-headings. Points can be numbered or presented in bullet form. Each point should be supported by evidence or an example.",
+                        "spans": [
+                          {
+                            "start": 6,
+                            "end": 24,
+                            "type": "strong"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Conclusions or recommendations",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "In a maths or science report this section may not be necessary, but could include suggestions for further research. In an information report this summarises (in one or two sentences) the main points of information.",
+                        "spans": [
+                          {
+                            "start": 5,
+                            "end": 28,
+                            "type": "strong"
+                          },
+                          {
+                            "start": 122,
+                            "end": 140,
+                            "type": "strong"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Reference section",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Check your module materials to see the format you need to use for the reference section.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0uohAAACAAbB2U"
+              },
+              "title": "When study gets difficult",
+              "description": "How your friends and family can support you with your studies.",
+              "keywords": null,
+              "audiences": "public, student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "All students have low points when they wonder why they started the module. Sometimes they just need a break and to forget about study for a while, or for someone to listen to their woes, but at other times they may need more.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "OU students are often quite independent and don’t really want to ask for help, so the friends and family who know them best are very important in ensuring they are coping with their study and keeping things in perspective.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Your student’s OU tutor or study adviser is available to help with their difficulties relating to assignments, module materials and study skills. You could encourage your student to write down what is troubling them, to help get it clear, and to phone or email their tutor to talk it through. This is part of a tutor’s role and they are always happy to help.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Talking to other students on the module can be very reassuring for students feeling generally overwhelmed; others often have good tips for dealing with specific problems too. Online forum discussions can help them see that many fellow students have very similar difficulties, so even if time is tight it is worthwhile taking part. There are also useful online tips and resources in Study skills.",
+                        "spans": [
+                          {
+                            "start": 382,
+                            "end": 394,
+                            "type": "hyperlink",
+                            "data": {
+                              "id": "Xr0u8hAAACAAbCGf",
+                              "type": "help_collection",
+                              "tags": [],
+                              "lang": "en-gb",
+                              "slug": "study-skills",
+                              "first_publication_date": "2020-05-14T11:44:21+0000",
+                              "last_publication_date": "2020-07-16T09:40:24+0000",
+                              "link_type": "Document",
+                              "isBroken": false
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Anxieties about administrative matters such as fees, qualifications or arrangements for students with disabilities can also put pressure on study and motivation. OU advisers are available to give support – your student will have a contact number to call – or you could help them track down advice on the OU website.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Sometimes circumstances make it too difficult for a student to carry on with a particular module. OU staff know how painful it is to come to this decision and will help your student sort out the necessary administration. Encourage them to get in touch with whoever they know best – usually their tutor.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Some students share their experiences of how friends and family have helped in difficult times.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Student views",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "quote",
+                  "primary": {
+                    "quote_text": null,
+                    "quote_layout": "Left",
+                    "quote_citation": null
+                  }
+                },
+                {
+                  "type": "quote",
+                  "primary": {
+                    "quote_text": null,
+                    "quote_layout": "Right",
+                    "quote_citation": null
+                  }
+                },
+                {
+                  "type": "quote",
+                  "primary": {
+                    "quote_text": null,
+                    "quote_layout": "Right",
+                    "quote_citation": null
+                  }
+                },
+                {
+                  "type": "quote",
+                  "primary": {
+                    "quote_text": null,
+                    "quote_layout": "Left",
+                    "quote_citation": null
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0uohAAACAAbB2o"
+              },
+              "title": "Living with an OU student",
+              "description": "How your friends and family can support you with your studies.",
+              "keywords": null,
+              "audiences": "public, student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "There is no doubt that learning is about change. Study success often means that students are likely to:",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "icon_list",
+                  "fields": [
+                    {
+                      "list_item": null
+                    },
+                    {
+                      "list_item": null
+                    },
+                    {
+                      "list_item": null
+                    },
+                    {
+                      "list_item": null
+                    },
+                    {
+                      "list_item": null
+                    }
+                  ],
+                  "primary": {
+                    "list_style": "Ticks"
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "Family members offer their perspectives on living with an OU student and the changes this has involved.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Family views",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "quote",
+                  "primary": {
+                    "quote_text": null,
+                    "quote_layout": "Fullwidth",
+                    "quote_citation": null
+                  }
+                },
+                {
+                  "type": "quote",
+                  "primary": {
+                    "quote_text": null,
+                    "quote_layout": "Fullwidth",
+                    "quote_citation": null
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "heading2",
+                        "text": "Student views",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "quote",
+                  "primary": {
+                    "quote_text": null,
+                    "quote_layout": "Fullwidth",
+                    "quote_citation": null
+                  }
+                },
+                {
+                  "type": "quote",
+                  "primary": {
+                    "quote_text": null,
+                    "quote_layout": "Fullwidth",
+                    "quote_citation": null
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0uohAAACAAbB4G"
+              },
+              "title": "Assignments",
+              "description": "How your friends and family can support you with your studies.",
+              "keywords": null,
+              "audiences": "public, student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "Assignments are often demanding and stressful for students. They have to be sent to the tutor on fixed dates, which must be kept to unless there are exceptional circumstances. Assignment scores are usually a substantial part of the final module grade so doing well is important.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Sometimes assignments can seem like a huge hurdle – they always require effort and concentration. Your support and encouragement will really make a difference.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "How can I help?",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "You can help by:",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "icon_list",
+                  "fields": [
+                    {
+                      "list_item": null
+                    },
+                    {
+                      "list_item": null
+                    },
+                    {
+                      "list_item": null
+                    },
+                    {
+                      "list_item": null
+                    }
+                  ],
+                  "primary": {
+                    "list_style": "Ticks"
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "You can also remind them that there are special online resources under Study skills dealing with the challenge of assignments.",
+                        "spans": [
+                          {
+                            "start": 71,
+                            "end": 83,
+                            "type": "hyperlink",
+                            "data": {
+                              "id": "Xr0u8hAAACAAbCC5",
+                              "type": "help_collection",
+                              "tags": [],
+                              "lang": "en-gb",
+                              "slug": "assignments",
+                              "first_publication_date": "2020-05-14T11:44:21+0000",
+                              "last_publication_date": "2020-05-19T11:57:53+0000",
+                              "link_type": "Document",
+                              "isBroken": false
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Student views",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "quote",
+                  "primary": {
+                    "quote_text": null,
+                    "quote_layout": "Fullwidth",
+                    "quote_citation": null
+                  }
+                },
+                {
+                  "type": "quote",
+                  "primary": {
+                    "quote_text": null,
+                    "quote_layout": "Fullwidth",
+                    "quote_citation": null
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "heading2",
+                        "text": "Family views",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "quote",
+                  "primary": {
+                    "quote_text": null,
+                    "quote_layout": "Fullwidth",
+                    "quote_citation": null
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0uohAAACAAbB0g"
+              },
+              "title": "Getting organised",
+              "description": "How your friends and family can support you with your studies.",
+              "keywords": null,
+              "audiences": "public, student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "It’s easy to underestimate the importance of getting organised. OU students asked to give tips for successful study nearly always say that good planning and organisation are vital.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "To get organised, students and their families need to think about:",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "icon_list",
+                  "fields": [
+                    {
+                      "list_item": null
+                    },
+                    {
+                      "list_item": null
+                    },
+                    {
+                      "list_item": null
+                    }
+                  ],
+                  "primary": {
+                    "list_style": "Ticks"
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "Finding enough time to study is difficult for many students, but planning ahead and following a schedule makes it possible. It may take a while to get the right balance between work, family time and study. There will be peaks and troughs in study time – some weeks will be busier than others.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Module materials, administrative paperwork, assignments, DVDs, notes, study guides, calendars … there’s a lot of stuff to keep organised. Many students like to have somewhere to keep everything together, perhaps in boxes or on a shelf.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "All OU students need to use a computer for writing assignments and keeping in touch, and there are lots of resources on OU websites they’ll want to use too. You may need to negotiate times for computer use, or for using a quiet room.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "In the following videos OU students talk about their study spaces and how they manage and organise them.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "video",
+                  "fields": [
+                    {
+                      "video_title": "Study spaces a managing studies",
+                      "video_url": {
+                        "url": "https://podcast.open.ac.uk/feeds/3100/20141028T140111_study-space-and-managing-studies.m4v"
+                      },
+                      "video_poster": {
+                        "url": "https://podcast.open.ac.uk/feeds/3100/study-space-an-managing-study_03100_33982.jpg"
+                      },
+                      "video_duration": "1:45",
+                      "video_transcript": [
+                        {
+                          "type": "paragraph",
+                          "text": "Mel (Student): My study space is a bit chaotic I must admit because I do quite a bit of study sitting on my double bed, ‘cos I like to have my books spread around me.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "“Qu’est ce qu’il ne fait pas…”",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "My books, I keep them in duffle bags, rucksacks, carrier bags and then basically in my bedroom and I just pick up the relevant bag for the relevant module or the textbooks I want for that particular minute and transplant them round the house or wherever I’m going with me.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "But when I need to use the computer, I’ve also got a lot of craft materials in the room so I have to pick up the craft materials, lump them somewhere else while I’m studying and then when I want to do my craft stuff, lump it back onto the computer table. So it’s a bit multi-purpose.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Managing OU study and the rest of your life can be a bit tricky at times but I’m really lucky ‘cos my husband is also an OU student so we both know exactly what we’re going through and we’ve got a small son as well so one of us can take our little boy out and give the other one study space. It can be a bit difficult at times but you do manage.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Jed (Student): I don’t have a study space as such. I’m very ad hoc. My books are currently on a shelf in the conservatory and I’ll just go and get them as required, as needed. It’s the dining room table if I need to spread stuff out.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "In nice weather like we have at the moment it’s the conservatory or out in the back garden. So there’s no set space. All my other module materials - I’m lucky to have a large office at work - but part of the MBA thing anyway is I use them all as references on a daily basis.",
+                          "spans": []
+                        }
+                      ]
+                    },
+                    {
+                      "video_title": "Organising study spaces",
+                      "video_url": {
+                        "url": "https://podcast.open.ac.uk/feeds/3100/20141028T134437_organising-study-space.m4v"
+                      },
+                      "video_poster": {
+                        "url": "https://podcast.open.ac.uk/feeds/3100/orgainising-study-space_03100_33981.jpg"
+                      },
+                      "video_duration": "1:21",
+                      "video_transcript": [
+                        {
+                          "type": "paragraph",
+                          "text": "Robin (Student): We’ve got an office in the house so I’ll tend to kind of lock myself away earplugs in and you know, get down and do what I need to do, normally first thing in the morning.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Fran (Student): When I started DD100 we’d just moved house and we decorated one of the rooms. It was the study. And that was my space. You know - specially ordered desk. And then I came to using it, and I didn’t enjoy using it. I felt like I was being sent to my room to do my homework. And, I did, you know, I used to loathe going to study there and I found actually what was better and what I’ve done this year is I use the dining room table. We have a lounge diner and I don’t mind if other people are in the room talking, that’s fine. I feel like I haven’t been sent away that I’m still part of what’s going on in the house and I just spread all my stuff out across the table and we’ve got the cupboard in one corner so then at the end of the evening I can put it back in a box and put it away… Or occasionally it gets left out.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Cynthi(Student): It’s actually a mess. ‘Cos I’m not a very organised person. Or I don’t think I am. Others probably do. I’m one of these people who… things are a mess, but I know exactly where they are.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "So I mustn’t have anything moved. But then after the TMA I clear it out, file it, put it away. Clear the workspace.",
+                          "spans": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0uKxAAAB4AbBpJ"
+              },
+              "title": "Social sciences - student stories",
+              "description": "Stories of students who studied social science qualifications",
+              "keywords": "social science, social sciences, social sciences qualifications",
+              "audiences": "public, student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "We’ve spoken to OU students about their careers, study plans and their lives. These real stories can give you an idea of the career paths of OU students and what has helped them progress, develop or move into their chosen career.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "On the following page you will see a case study for an OU Social Science student:",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "link_list",
+                  "fields": [
+                    {
+                      "link_list_link": {
+                        "_linkType": "Link.document",
+                        "__typename": "Help_article"
+                      },
+                      "link_list_title": "Dr Yossi Ives",
+                      "link_list_description": "Rabbi and Life Coach"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0uKxAAAB4AbBot"
+              },
+              "title": "Dr Yossi Ives, Rabbi and Life Coach",
+              "description": "A former OU student shows what career opprtunities emerge from a study of the social sciences",
+              "keywords": "Yossi Ives, Rabbi, Life Coach, Social Sciences",
+              "audiences": "public, student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "heading2",
+                        "text": "What do you currently do?",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "I am a part-time rabbi at a Synagogue in South London. I also do a small amount of life coaching, primarily in relation to singles and dating, and I deliver a coaching course, as well as writing on the subject. I am also the chairman of two global organisations whereby my role is to lead strategic development and manage staff to ensure continued funding in order to support the growth of these organisations.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "What made you decide on OU study?",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "The range of courses in the social sciences such as media, social work, crime prevention, environment, social identity – leading to an MA in social sciences.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "I had originally planned to study theology, philosophy or history; the kind of subjects many would expect of a minister of religion but as that didn’t work out, I turned to the social sciences. I am enormously glad I did, as it has opened up a whole new world to me.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Now my work involves both research into social issues and practical projects – it’s hard to imagine that all this would not have been possible if I hadn’t decided to go for an MA in the social sciences.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Tell us about your OU study",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "As a minister of religion, I found the opportunity to engage seriously in understanding the social issues confronting contemporary society to be highly enriching.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "I was always interested in the world around me, but this course of study dramatically broadened my understanding of the field of social studies and triggered in me a serious desire to bring my religious education as a rabbi into contact with my new education in the social sciences.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "I found the flexibility of the Open University course highly suited to a busy and demanding work and personal life.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "What did you do after you graduated?",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "My OU studies ended in 2003, and over the years I did a variety of jobs that helped me to come to the point I am at now. For example, I was given the opportunity to be a prison chaplain, which allowed me to gain new perspectives on the criminal justice system that much complemented my OU criminological studies.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Following on from my MA, my OU careers advisor suggested I may wish to consider training as a coach. This has been life changing as I have now become a qualified coach and completed a PhD on goal-focused coaching.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "What advice can you offer to current OU students?",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Take advice. Consider options that may not seem obvious to you. Be willing to try something different.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0uKxAAAB4AbBpL"
+              },
+              "title": "Maths and stats - student stories",
+              "description": "Stories of students who studied Maths and stats qualifications",
+              "keywords": "Maths, statistics, maths and statistics",
+              "audiences": "public, student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "We’ve spoken to OU students about their careers, study plans and their lives. These real stories can give you an idea of the career paths of OU students and what has helped them progress, develop or move into their chosen career.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "On the following page you will see a case study for an OU Maths and Statistics student:",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "link_list",
+                  "fields": [
+                    {
+                      "link_list_link": {
+                        "_linkType": "Link.document",
+                        "__typename": "Help_article"
+                      },
+                      "link_list_title": "Nathan Thompson",
+                      "link_list_description": "Project Manager"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0uKxAAAB4AbBnx"
+              },
+              "title": "Nathan Thompson, Project Manager",
+              "description": "A former OU student describes how he has been able to combine his statistical background with project management",
+              "keywords": "statistics, maths, maths and stats,",
+              "audiences": "public, student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "heading2",
+                        "text": "Tell us about your job and current studies",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "I am employed as a Project Manager at the National Nuclear Laboratory (NNL).",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "I am a current student at the Open University, studying Mathematics and Statistics. I chose the OU to study this subject as there are no universities offering this degree in my area. It also enables me to complete my studies outside of full time employment.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "NNL has both Operational Research and Statistical capabilities and I've been given opportunities to gradually develop into these areas as my studies have progressed. I find the statistics modules in particular very practical and relevant to the work undertaken at the laboratory.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "As a Project Manager, my main tasks that generally repeat on a daily basis are monitoring costs, dealing with customer requests and monitoring/organising delivery of the work. Exactly what that entails changes on a day to day basis depending on the project and what stage it is at in its cycle. The projects can be quite varied.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "I am currently doing some statistical technical work which involves fitting a logistic model to some data relating to an issue at one of the plants from a nuclear site. The model will help to identify whether a particular feature is likely to be found given data for variables that relate to this feature. The statistical work also tends to be quite varied.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "How have your OU studies helped with your job?",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "I've become much more efficient with my time through OU study, not just to study, but I've become more productive in general - both at work and home. My ability to read and understand technical information has also benefited from the method of study used at the OU.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Going forward, I hope to further develop the skills related to my studies and pick up an increasing amount of statistical work, with a view to becoming a statistician.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "What things might make an OU student stand out to an employer?",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Study with the OU shows an employer that you have drive and self motivation as well as a willingness to learn. The OU has traditionally attracted many mature students and offers a great opportunity for a career change. The National Nuclear Laboratory is a multi disciplinary employer that seeks employees of all ages.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0uKxAAAB4AbBk7"
+              },
+              "title": "Childhood and Youth - student stories",
+              "description": "Stories of students who studied Childhood and Youth",
+              "keywords": "working with children",
+              "audiences": "public, student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "We’ve spoken to OU students about their careers, study plans and their lives. These real stories can give you an idea of the career paths of OU students and what has helped them progress, develop or move into their chosen career.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "On the following page you will see a case study for an OU Childhood and Youth student:",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "link_list",
+                  "fields": [
+                    {
+                      "link_list_link": {
+                        "_linkType": "Link.document",
+                        "__typename": "Help_article"
+                      },
+                      "link_list_title": "Sarah Witts",
+                      "link_list_description": "Classroom Assistant"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }

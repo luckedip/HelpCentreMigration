@@ -1,0 +1,3594 @@
+{
+    "data": {
+      "allHelp_articles": {
+        "edges": [
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0uohAAACAAbB5u"
+              },
+              "title": "Volunteer as a disability support assistant",
+              "description": "How to register to become a Disability Support Assistant at a residential school.",
+              "keywords": "Volunteer, disability support assistant",
+              "audiences": "student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "introduction",
+                  "primary": {
+                    "introduction_text": "Each year the Disabled Student Services recruits individuals to join our register of Disability Support Assistants, who can provide specified, one-to-one support to a student with disabilities or additional requirements whilst attending a residential school. Many of our assistants are or have been OU students themselves, and often enjoy the work so much that they have supported students with a variety of requirements over several years."
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "The type of support required is dependent on the students’ requirements, this can include guiding, accompanying to provide moral support and encouragement, mobility assistance and note taking. The work is largely active and may include manual handling.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Some assistants may be able to offer specific skills that are helpful to students with particular needs. We use several conditions to match students with assistants, including gender, academic and other relevant experience. Most matches work extremely well, and the key to this is good communication. However, student assistants on our register are not expected to help with personal care requirements such as washing, dressing or toileting.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Generally a residential school will run for seven days, and assistants are expected to reside on site for the duration of the appointment.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you think you would like to become an assistant, please contact:",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "The Disabled Student Services\nemail: disabled-student-services@open.ac.uk\ntelephone: +44 (0)1908 653745",
+                        "spans": [
+                          {
+                            "start": 37,
+                            "end": 73,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "mailto:disabled-student-services@open.ac.uk"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr1GbBAAACAAbIv4"
+              },
+              "title": "Get ready for postgraduate study",
+              "description": "Materials to help you prepare to start your postgraduate study.",
+              "keywords": "postgraduate, induction, PG",
+              "audiences": "student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "Welcome to postgraduate study at the Open University. Follow these steps to get ready to learn with the OU.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "steps",
+                  "fields": [
+                    {
+                      "steps_text": [
+                        {
+                          "type": "paragraph",
+                          "text": "Use the 'Next' buttons to navigate through this guide. If you’ve studied with the OU before you might find you already know a lot of the information – so focus on the Postgraduate study page.",
+                          "spans": [
+                            {
+                              "start": 167,
+                              "end": 185,
+                              "type": "hyperlink",
+                              "data": {
+                                "id": "Xr0u8hAAACAAbCC3",
+                                "type": "help_article",
+                                "tags": [],
+                                "lang": "en-gb",
+                                "slug": "postgraduate-study",
+                                "first_publication_date": "2020-05-14T11:44:21+0000",
+                                "last_publication_date": "2022-06-27T09:00:00+0000",
+                                "link_type": "Document",
+                                "isBroken": false
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      "steps_title": "Read this quick guide"
+                    },
+                    {
+                      "steps_text": [
+                        {
+                          "type": "paragraph",
+                          "text": "Take a look through the Succeeding in postgraduate study free, short course. This will introduce the skills you'll need at Masters level.",
+                          "spans": [
+                            {
+                              "start": 24,
+                              "end": 56,
+                              "type": "hyperlink",
+                              "data": {
+                                "link_type": "Web",
+                                "url": "https://www.open.edu/openlearn/education-development/succeeding-postgraduate-study/content-section-overview?active-tab=description-tab"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      "steps_title": "Prepare for postgraduate study"
+                    },
+                    {
+                      "steps_text": [
+                        {
+                          "type": "paragraph",
+                          "text": "Go to your subject or qualification website. Here you'll find materials to help you prepare to study your chosen subject.",
+                          "spans": [
+                            {
+                              "start": 11,
+                              "end": 43,
+                              "type": "hyperlink",
+                              "data": {
+                                "link_type": "Web",
+                                "url": "https://learn2.open.ac.uk/blocks/subjectlist/"
+                              }
+                            }
+                          ]
+                        }
+                      ],
+                      "steps_title": "Explore your subject"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0u8hAAACAAbCG7"
+              },
+              "title": "How you'll study",
+              "description": "Details of how you will study at a postgraduate level at the Open University.",
+              "keywords": "distance learning, pg,",
+              "audiences": "student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "We use what is called a 'supported distance learning approach'. We provide you with the online study materials and a schedule with deadlines and we support you throughout your time with us but you decide when and where you study. So, you decide the best way to meet your deadlines, but if you have any queries or concerns you can contact your tutor or advisers, or try our online Help Centre. We also encourage students to work together either online via forums or in tutorials.",
+                        "spans": [
+                          {
+                            "start": 330,
+                            "end": 360,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://help.open.ac.uk/contact#tutors"
+                            }
+                          },
+                          {
+                            "start": 380,
+                            "end": 391,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://help.open.ac.uk/"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "The majority of postgraduate modules are delivered entirely online using a mixture of video, interactive elements, resources to download and online rooms for tutorials. A small number still use hardcopy books and DVDs, together with online material. These modules will send your materials through the post. You can check when these will arrive by using the materials despatch link in the central panel on StudentHome.",
+                        "spans": [
+                          {
+                            "start": 405,
+                            "end": 416,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "http://www.open.ac.uk/studenthome"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "We mostly contact students via email. Please check your email regularly. All modules require use of the internet to contact the OU and other students via forums, to download material or to submit assignments online.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Your tutor or study adviser",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Most modules have a tutor who gives feedback to students on assignments and answers questions about module material. They often run online or face-to-face student tutorials which you’ll need to book via the tutorial booking system which can be found on StudentHome. If your module doesn’t have a tutor you’ll have a study adviser in your student support team to help you. You'll find their contact details in the Help Centre.",
+                        "spans": [
+                          {
+                            "start": 253,
+                            "end": 264,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "http://www.open.ac.uk/studenthome"
+                            }
+                          },
+                          {
+                            "start": 413,
+                            "end": 424,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://help.open.ac.uk/contact"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Your student support team",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Your student support team (SST) are specialists in your subject area and are your first point of contact if you have queries about:",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "difficulties with study – eg extra help with revising for exams",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "what to study next",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "making changes to the modules or qualifications you’re studying or planning to study",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "additional support and adaptations when studying with a disability or temporary health problem",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "options available if caring responsibilities are affecting your study",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "your tutorials – timetables, arrangements venues etc.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Time management",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Managing your time effectively is key. You might want to use our time planner to plan out when you'll be able to study.",
+                        "spans": [
+                          {
+                            "start": 65,
+                            "end": 77,
+                            "type": "hyperlink",
+                            "data": {
+                              "id": "Xr1GbBAAACAAbIxY",
+                              "type": "help_article",
+                              "tags": [],
+                              "lang": "en-gb",
+                              "slug": "plan-your-time",
+                              "first_publication_date": "2020-05-14T13:25:44+0000",
+                              "last_publication_date": "2023-03-30T08:05:04+0000",
+                              "link_type": "Document",
+                              "isBroken": false
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Also see time management skills for strategies to help you get organised.",
+                        "spans": [
+                          {
+                            "start": 9,
+                            "end": 31,
+                            "type": "hyperlink",
+                            "data": {
+                              "id": "Xr0u8hAAACAAbCGv",
+                              "type": "help_article_group",
+                              "tags": [],
+                              "lang": "en-gb",
+                              "slug": "time-management-skills",
+                              "first_publication_date": "2020-05-14T11:44:21+0000",
+                              "last_publication_date": "2020-05-14T13:25:44+0000",
+                              "link_type": "Document",
+                              "isBroken": false
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Computing",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "We have a wealth of resources to help you get started with using a computer for study.",
+                        "spans": [
+                          {
+                            "start": 42,
+                            "end": 85,
+                            "type": "hyperlink",
+                            "data": {
+                              "id": "Xr0uKxAAAB4AbBoB",
+                              "type": "help_article",
+                              "tags": [],
+                              "lang": "en-gb",
+                              "slug": "acquiring-basic-computing-skills",
+                              "first_publication_date": "2020-05-14T11:40:49+0000",
+                              "last_publication_date": "2022-04-29T10:24:35+0000",
+                              "link_type": "Document",
+                              "isBroken": false
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Before your module starts:",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Ensure you have use of a computer with internet access",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Know how much of your study requires you to be online",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Load any necessary software on to your computer. You’ll find what is required on your module website (in the central panel on StudentHome.)",
+                        "spans": []
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr1GbBAAACAAbIvS"
+              },
+              "title": "The OU community",
+              "description": "As an OU student you are part of a network of students.",
+              "keywords": "OU Students Association, Social media",
+              "audiences": "student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": {
+                    "url": "https://help.open.ac.uk/documents/policies/social-media"
+                  },
+                  "related_links_title": "Social Media Policy",
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": true,
+              "notes": null,
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "You're never on your own when you study with us. As well as your tutor and advisers, you are part of a network of other students.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "The OU Students Association",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Every new student automatically becomes a member of the OU Students Association – it's free and you can opt out at any time. The OU Students Association represents your views (both within and outside the OU) through elected officers and representatives who are all students. As well as branches across the UK, many of which run social events, there's an annual conference. It runs a company that sells OU-styled products, study aids and past exam papers. It has also established a charity to help students in financial need. For help on any aspect of being an OU student, you can contact The OU Students Association through its website, its Peer Support Online service, by joining one of its online forums or phoning its offices at Walton Hall on +44(0)1908 652026.",
+                        "spans": [
+                          {
+                            "start": 628,
+                            "end": 635,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://www.oustudents.com/"
+                            }
+                          },
+                          {
+                            "start": 641,
+                            "end": 668,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://www.oustudents.com/peer-support"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "There are various optional ways of keeping in touch with us and with other OU students via social media. The following social media accounts are official accounts run by OU staff.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "link_list",
+                  "fields": [
+                    {
+                      "link_list_link": {
+                        "_linkType": "Link.web",
+                        "__typename": "_ExternalLink",
+                        "url": "https://www.facebook.com/theopenuniversity/"
+                      },
+                      "link_list_title": "The OU on Facebook",
+                      "link_list_description": null
+                    },
+                    {
+                      "link_list_link": {
+                        "_linkType": "Link.web",
+                        "__typename": "_ExternalLink",
+                        "url": "https://twitter.com/OpenUniversity?lang=en-gb"
+                      },
+                      "link_list_title": "@OpenUniversity on Twitter",
+                      "link_list_description": null
+                    },
+                    {
+                      "link_list_link": {
+                        "_linkType": "Link.web",
+                        "__typename": "_ExternalLink",
+                        "url": "https://www.linkedin.com/edu/school?id=12659&trk"
+                      },
+                      "link_list_title": "The Open University on Linkedin",
+                      "link_list_description": null
+                    },
+                    {
+                      "link_list_link": {
+                        "_linkType": "Link.web",
+                        "__typename": "_ExternalLink",
+                        "url": "https://www.instagram.com/theopenuniversity/"
+                      },
+                      "link_list_title": "theopenuniversity on Instagram",
+                      "link_list_description": null
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0u8hAAACAAbCE_"
+              },
+              "title": "What do I need to do next?",
+              "description": "A guide through to what you need to do before your first module starts.",
+              "keywords": null,
+              "audiences": "student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "The following steps are to guide you through what happens and what you need to do before your first module starts.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "1. Check your eligibility and apply for Disability Support",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you have a disability or long term health condition you may be eligible for additional funding, equipment and support. The application process can take up to four months so do it as soon as possible to guarantee that your support will be ready in time to start your course.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "link_list",
+                  "fields": [
+                    {
+                      "link_list_link": {
+                        "_linkType": "Link.document",
+                        "__typename": "Help_article"
+                      },
+                      "link_list_title": "Apply for additional funding and support",
+                      "link_list_description": null
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "heading2",
+                        "text": "2. Check your profile",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Check your details in the Profile area to ensure you receive important communications.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "link_list",
+                  "fields": [
+                    {
+                      "link_list_link": {
+                        "_linkType": "Link.web",
+                        "__typename": "_ExternalLink",
+                        "url": "https://msds.open.ac.uk/students/profile.aspx"
+                      },
+                      "link_list_title": "Go to your profile",
+                      "link_list_description": null
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "heading2",
+                        "text": "3. Prepare for postgraduate study",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "We've touched on some of the key differences between undergraduate and postgraduate study in this guide, but for a full exploration of the skills you'll need to suceed try this free short course.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "link_list",
+                  "fields": [
+                    {
+                      "link_list_link": {
+                        "_linkType": "Link.web",
+                        "__typename": "_ExternalLink",
+                        "url": "https://www.open.edu/openlearn/education-development/succeeding-postgraduate-study/content-section-overview?active-tab=description-tab"
+                      },
+                      "link_list_title": "Succeeding in postgraduate study",
+                      "link_list_description": null
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "heading2",
+                        "text": "4. Explore your subject",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Take a look at the website for your subject or qualification (known as Study Home). This has materials to help you prepare and will be a useful resource throughout your studies.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "link_list",
+                  "fields": [
+                    {
+                      "link_list_link": {
+                        "_linkType": "Link.web",
+                        "__typename": "_ExternalLink",
+                        "url": "https://learn2.open.ac.uk/blocks/subjectlist/"
+                      },
+                      "link_list_title": "Explore your subject",
+                      "link_list_description": null
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "heading2",
+                        "text": "5. Take a look at your module website",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "About three weeks before your module starts you'll find a link to your module website on StudentHome. You might also receive a box of study materials in the post. Familiarise yourself with these in advance of the module starting.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "link_list",
+                  "fields": [
+                    {
+                      "link_list_link": {
+                        "_linkType": "Link.web",
+                        "__typename": "_ExternalLink",
+                        "url": "https://msds.open.ac.uk/students"
+                      },
+                      "link_list_title": "Go to StudentHome",
+                      "link_list_description": null
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "heading2",
+                        "text": "6. Book your tutorials",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If your module has tutorials you’ll be able to select them from around 3 weeks before your module starts. You can select your tutorials at any time from this date but it's best to book early to guarantee a place.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "link_list",
+                  "fields": [
+                    {
+                      "link_list_link": {
+                        "_linkType": "Link.web",
+                        "__typename": "_ExternalLink",
+                        "url": "https://msds.open.ac.uk/students/tutorials/index.aspx"
+                      },
+                      "link_list_title": "Book your tutorials",
+                      "link_list_description": null
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "heading2",
+                        "text": "7. Check your tutor details",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "You’ll also find out who your tutor is, if you have one, shortly before your module starts. You can contact them if you have queries.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "link_list",
+                  "fields": [
+                    {
+                      "link_list_link": {
+                        "_linkType": "Link.web",
+                        "__typename": "_ExternalLink",
+                        "url": "https://help.open.ac.uk/contact#tutors"
+                      },
+                      "link_list_title": "Contact your tutor",
+                      "link_list_description": null
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "heading2",
+                        "text": "8. Start studying!",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Remember that you can always contact your tutor, study adviser or student support team (SST) if you have any problems. You'll find all your contacts here. Remember you also have the online Help Centre and Computing Guide available to help you. ",
+                        "spans": [
+                          {
+                            "start": 131,
+                            "end": 148,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://help.open.ac.uk/contact"
+                            }
+                          },
+                          {
+                            "start": 189,
+                            "end": 200,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://help.open.ac.uk"
+                            }
+                          },
+                          {
+                            "start": 205,
+                            "end": 220,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "http://learn1.open.ac.uk/admin/tool/redirector/redirect.php/"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0u8hAAACAAbCC3"
+              },
+              "title": "Postgraduate study",
+              "description": "Introduction to postgraduate study with the Open University, what skills are required and what to expect.",
+              "keywords": "Postgraduate skills, Masters, research, PG",
+              "audiences": "student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "A taught masters course is a big step up from your final year of undergraduate study. More emphasis is placed on doing your own, more independent study, carrying out your own research, and the need to study more intensely. You’ll need to adapt your approach to study but techniques you learnt at undergraduate study can be built on. It will often involve:",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "finding, reading and analysing research material which has been written for experts rather than students",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "finding your own material to study, through online searches, via the OU Library or other academic libraries",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "working closely with a tutor or supervisor",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "writing extended pieces of work",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "following academic convention when presenting findings and ideas.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "The good news is that taught masters qualifications are structured to help you build these skills.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "You’re expected to become more sophisticated in your critical evaluation of the material you read and assignments are designed to allow this. You'll also need to show you can adapt your thinking, carry out research and be proactive in what you read and investigate.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Developing postgraduate skills",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "The skills you'll need to develop to carry out your postgraduate study are likely to include:",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "information management and library skills",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "critical analysis, including statistical analysis",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "research",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "reflective practice (relating others' theories to your own studies).",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "For a full exploration of the skills you'll need to succeed, try the free short course Succeeding in postgraduate study.",
+                        "spans": [
+                          {
+                            "start": 87,
+                            "end": 119,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://www.open.edu/openlearn/education-development/succeeding-postgraduate-study/content-section-overview?active-tab=description-tab"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Library and information management skills",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Whatever your academic background, as a postgraduate you'll need to become adept at using a library and a range of online resources. StudentHome gives you access to the OU's Library for books, journals and newspapers.",
+                        "spans": [
+                          {
+                            "start": 133,
+                            "end": 144,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "http://www.open.ac.uk/students/"
+                            }
+                          },
+                          {
+                            "start": 165,
+                            "end": 181,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "http://library.open.ac.uk/"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "YnjMjxAAACAArusv"
+              },
+              "title": "English and maths in England",
+              "description": "Demonstrating your English and maths skills to become an apprentice",
+              "keywords": "functional skills, being an apprentice, apprentice",
+              "audiences": "student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "introduction",
+                  "primary": {
+                    "introduction_text": "As an apprentice in England, you must demonstrate you have achieved Level 2, for example GCSE, or equivalent in both English and maths before you can complete your apprenticeship."
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "During your apprenticeship application process, your current working levels in English and maths were determined, and you were asked to provide certificates or other evidence of previous qualifications. English and maths are sometimes referred to as functional skills.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "You can find what is an acceptable qualification on the .gov.uk website. They also provide advice on how to get replacement exam certificates.",
+                        "spans": [
+                          {
+                            "start": 13,
+                            "end": 48,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://www.gov.uk/government/publications/english-and-maths-requirements-in-apprenticeship-standards-at-level-2-and-above"
+                            }
+                          },
+                          {
+                            "start": 101,
+                            "end": 141,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://www.gov.uk/replacement-exam-certificate"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Exemptions ",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you haven’t done so already, you need to provide evidence of your previous English and maths qualifications in the first few weeks of your apprenticeship to gain exemption. This evidence should be scanned copies of your exam certificates (together with proof of change of name if relevant). You’ll receive written confirmation of your exemption from the Apprenticeships Operations team around six weeks after you start your apprenticeship if your evidence has been validated.  ",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you are exempt, you may choose to refresh your English and maths skills. The online learning resources for functional skills are available to all apprentices. We also have some core skills resources to support your higher education studies.  ",
+                        "spans": [
+                          {
+                            "start": 180,
+                            "end": 191,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://help.open.ac.uk/browse/study-skills/core-skills"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Completing Level 2 English and maths  ",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "The Apprenticeship Operations team and specialist tutors will support you to achieve your English and maths Level 2 qualifications. ",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "It's advisable to start your English and maths learning as soon as you can to benefit from your enhanced skills in your academic assessments and work. You should aim to complete your functional skills qualifications in the first year of your apprenticeship as you'll want to focus on your academic qualification as you reach the later stages. ",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "You'll study online using the Basic and Key Skill Builder (BKSB) platform, which you used to take your initial skills assessment. You'll take a further diagnostic assessment, which creates a personalised set of learning resources to cover the topics you need to improve. You'll follow these with the support of a functional skills tutor, who'll be allocated to you around six weeks after the start of your apprenticeship. ",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Your employer will need to provide you with additional time during your working hours to allow you to complete your study for functional skills. Most apprentices will need 20-60 hours of study per subject, depending on their initial working level. Remember that study hours for functional skills cannot be included as off-the-job study hours. Talk to your functional skills tutor for guidance on planning the time you need for English and maths.  ",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "When your tutor feels you’re ready an exam date will be arranged and you can sit your exams online.  Functional skills qualifications in English and maths are examined and awarded by an external awarding organisation. Remember you must pass your English and maths (if you're not exempt) to complete your apprenticeship.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you have any questions about functional skills, ask your Functional Skills Tutor or your Apprentice Support Team. You can also contact the Functional Skills team by email apprenticeships-functionalskills@open.ac.uk",
+                        "spans": [
+                          {
+                            "start": 174,
+                            "end": 217,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "mailto:apprenticeships-functionalskills@open.ac.uk"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Ynj1MBAAACEAr6OK"
+              },
+              "title": "Achieving occupational competency",
+              "description": "Find out why occupational competency is important to achieving your apprenticeship.",
+              "keywords": "being an apprentice, occupational competency, knowledge skills behaviours, KSB, competency, apprentice",
+              "audiences": "student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "introduction",
+                  "primary": {
+                    "introduction_text": "Apprenticeships are designed by industry experts to ensure successful apprentices have the knowledge, skillls and behaviours required in specific occupation. Over the apprenticeship you'll collect evidence to demonstrate your growing competency to the approved apprenticeship standard you've chosen."
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "The standards for your programme provide a framework for your professional development and you should use them to:",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Give you a focus for your goals.",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Plan your learning.",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Focus your discussions with your Practice Tutor and Line Manager who should be able to support your work-based activities ensuring they are suitable evidence.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Some apprenticeships include external professional, statutory or regulatory body requirements, such as nursing, social work, and policing. ",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Apprentices in Scotland or Wales",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "As an apprentice in Scotland or Wales, your occupational competency is developed and assessed within the modules you need to pass to achieve your academic qualification. Your apprenticeship framework details the knowledge and professional competencies needed for your chosen profession. ",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Apprentices in England",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "In England, apprenticeship standards are approved and published by the Institute for Apprenticeships and Technical Education (IfATE). You can find information about the apprenticeship standards on the IfATE website.",
+                        "spans": [
+                          {
+                            "start": 201,
+                            "end": 206,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://www.instituteforapprenticeships.org/apprenticeship-standards/"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Each standard describes the occupation, the duties, and the knowledge, skills, and behaviours (KSBs) required to be fully competent. ",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "KSBs are defined as follows:  ",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Knowledge – the information, technical detail, and ‘know-how’ that someone needs to have and understand to successfully carry out the duties. Some knowledge will be occupation-specific, whereas some may be more generic.  ",
+                        "spans": [
+                          {
+                            "start": 0,
+                            "end": 10,
+                            "type": "strong"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Skills – the practical application of knowledge needed to successfully undertake the duties, learnt through on- and/or off-the-job training or experience.  ",
+                        "spans": [
+                          {
+                            "start": 0,
+                            "end": 7,
+                            "type": "strong"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Behaviours – mindsets, attitudes or approaches needed for competence. While these can be innate or instinctive, they can also be learned. Behaviours tend to be very transferable. They may be more similar across apprenticeships than knowledge and skills. For example, ‘team worker’, ‘adaptable’ and ‘professional’.",
+                        "spans": [
+                          {
+                            "start": 0,
+                            "end": 11,
+                            "type": "strong"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Your modules will guide you, together with advice from your Practice Tutor, helping you to evidence your competency for each of the KSBs, in addition to passing your modules for your academic qualification. The evidence is usually gained by completing activities in your workplace and may be assessed separately to your academic studies. You'll collect this evidence in your portfolio.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Successful apprentices start building their portfolio from the beginning and get in the habit of adding to it regularly. Your Practice Tutor will support you to do this and expect you to do it. Maintaining good progress will make the end-point assessment (EPA) easier to complete.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading3",
+                        "text": "Identifying and evidencing your competencies ",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "From the start of your apprenticeship, you should look for opportunities to demonstrate your competencies in the workplace and learn how to evidence these. Some of the KSBs will be harder to demonstrate as they are not part of your current job. If you're concerned about demonstrating any specific KSB, use your tripartite meetings to seek ideas, opportunities and plan how you can achieve them. This may also be an opportunity to expand your network.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "The evidence you present for assessment needs to meet the following requirements, known as VACS (valid, authentic, current, sufficient):    ",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Valid/Relevant – it should (where possible) be obtained in a real working environment that accurately reflects  your day-to-day work. It must relate to the KSB being evidenced. ",
+                        "spans": [
+                          {
+                            "start": 0,
+                            "end": 14,
+                            "type": "strong"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Authentic – it must be your own work, unguided and in a real working environment (where possible). It must be clear what role you've played in producing the evidence presented. ",
+                        "spans": [
+                          {
+                            "start": 0,
+                            "end": 9,
+                            "type": "strong"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Current – the evidence must have been produced while you're on the programme. ",
+                        "spans": [
+                          {
+                            "start": 0,
+                            "end": 7,
+                            "type": "strong"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Sufficient – the evidence must fully cover the KSB it’s intended to, partial coverage does not demonstrate full competency. ",
+                        "spans": [
+                          {
+                            "start": 0,
+                            "end": 11,
+                            "type": "strong"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Your competencies will develop over the duration of your apprenticeship and your collection of evidence should build accordingly until you have evidence for each of the competencies (KSBs). Your Practice Tutor will guide you in how to do this for your apprenticeship programme. ",
+                        "spans": []
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "YiYxaRAAAPf44VvW"
+              },
+              "title": "Breaks in learning",
+              "description": "Find advice on what to do if you need to take a break from learning as an apprentice",
+              "keywords": "apprentice, break in learning, BIL, off the job training hours, stop my apprenticeship, cancel apprenticeship, leave apprenticeship, Apprentice change, Apprentice break",
+              "audiences": "student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": {
+                    "url": "https://help.open.ac.uk/documents/policies/academic-regulations"
+                  },
+                  "related_links_title": "Academic Regulations",
+                  "related_links_description": [
+                    {
+                      "type": "paragraph",
+                      "text": "including the regulations for apprentices.",
+                      "spans": []
+                    }
+                  ]
+                }
+              ],
+              "related_links_enabled": true,
+              "notes": null,
+              "body": [
+                {
+                  "type": "introduction",
+                  "primary": {
+                    "introduction_text": "If you're unable to study your apprenticeship for four or more weeks due to illness, medical treatment, or caring responsibilities, you can request a formal pause from study known as a ‘break in learning'."
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "It's important to think carefully before taking a break in learning. Taking a break could mean you'll need to wait up to a year (or more) to return to studying your apprenticeship if your next module starts only once a year. ",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "You may be eligible to carry over your assessment scores for modules you have not completed, known as ‘assessment banking’. You will no longer be able to access module materials you are part-way through, and the planned end date of your apprenticeship will be delayed. If your request is approved, your estimated return date will be recorded. ",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Requesting a break in learning",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "You must intend to return to your apprenticeship in the future, nominate the reason for the break and the expected duration.  Your request must also meet the apprenticeship funding rules. You should speak to your employer who must agree to the break in writing.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "You should discuss any break you wish to have with your Apprentice Support team. They can help you think through your decision and pass on your request to our Apprenticeship Operations team who will check you're eligible for a break and that your employer has agreed.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "You'll find your contacts in Contact us.",
+                        "spans": [
+                          {
+                            "start": 29,
+                            "end": 40,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://help.open.ac.uk/contact"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Returning after a break in learning",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "The Apprenticeship Operations team will keep in touch with your employer while you're on a break. You can keep in touch with your Apprentice Support Team. About three months before your estimated return date, you and your employer will need to confirm that you're ready to return so that your module registration can be processed. You may also need to be allocated to a different Practice Tutor. ",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "When you start studying again, your Practice Tutor will help you to update your individual learning plan, and you'll receive a call from the Apprentice Support Team to ensure your return is as smooth as possible. ",
+                        "spans": []
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "XjhUKBEAAB8AF4dV"
+              },
+              "title": "Cancelling your module",
+              "description": "Instructions to help you if you want to cancel a module.",
+              "keywords": "enrolment help, cancel, refund, stop studying, delete module, unsubscribe, withdraw, drop out, unenrol",
+              "audiences": "staff",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "This article offers guidance to students about cancelling their module. The advice is different depending on where the student is ordinarily resident.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you're advising a student you need to choose the version below that matches their situation.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you're unsure which of these is correct for the student then just send them this URL and they will be redirected to the correct version for them.",
+                        "spans": [
+                          {
+                            "start": 69,
+                            "end": 87,
+                            "type": "strong"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Do not copy and paste or quote content from the versions below to a student unless you are sure it is correct for their situation.",
+                        "spans": [
+                          {
+                            "start": 0,
+                            "end": 6,
+                            "type": "strong"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "link_list",
+                  "fields": [
+                    {
+                      "link_list_link": {
+                        "_linkType": "Link.document",
+                        "__typename": "Help_article"
+                      },
+                      "link_list_title": "Standard fees",
+                      "link_list_description": "Is UG and resident in England, Northern Ireland, Wales or Outside the UK.  (fee codes EN, EU, IE, NI, OE, EU, WN, WT)"
+                    },
+                    {
+                      "link_list_link": {
+                        "_linkType": "Link.document",
+                        "__typename": "Help_article"
+                      },
+                      "link_list_title": "Devolved UK nation fees",
+                      "link_list_description": "Is UG and resident in Scotland (fee codes SC), or is PG."
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "XisT2BIAACEAbEu2"
+              },
+              "title": "Open University offices",
+              "description": "The OU has offices throughout the UK where your student support teams are based.",
+              "keywords": "address, belfast, edinburgh, cardiff, milton keynes, postal address, nation office address, address for, BSL, SL, British Sign Language, Sign Language",
+              "audiences": "student, apprentice, public",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": "OU offices was revamped for reg open 2021 in order to have a public page to point the public/students to in case details need to be changed quickly due to an emergency or there is an office move/number change before policies can be updated. This page is linked to from several of the policies so students and the public can check the info before they call or post in something. Stakeholders are the policies team and the various teams which appear on this page.",
+              "body": [
+                {
+                  "type": "introduction",
+                  "primary": {
+                    "introduction_text": "This article contains addresses for student postal correspondence and phone numbers for various Open University (OU) support teams. Note, however, that it's not a complete list of all the departments at the University."
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "Please send any information or other correspondence to the University electronically rather than by post so we can respond to you as quickly as possible.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you are not currently an OU student or if you're looking for electronic contact options such as email and webchat see the public contact us page. This will help to ensure you are contacting the correct team based on your needs.",
+                        "spans": [
+                          {
+                            "start": 125,
+                            "end": 147,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://www.open.ac.uk/contact/"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you're logged in as an OU student, you'll find all the details of your Student Support Team in our student contact us page.",
+                        "spans": [
+                          {
+                            "start": 102,
+                            "end": 125,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://help.open.ac.uk/contact"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you're planning to visit one of these offices, you'll need to phone the office before visiting to find out what the arrangements are.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "on_this_page",
+                  "primary": {
+                    "style": "Multi"
+                  }
+                },
+                {
+                  "type": "heading",
+                  "primary": {
+                    "heading": [
+                      {
+                        "type": "heading2",
+                        "text": "The Open University",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "Use this address for English and international student queries.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Student Recruitment and Support\nThe Open University\nPO Box 197\nMilton Keynes\nMK7 6BJ",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Telephone: +44 (0)300 303 5303",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "back_to_top"
+                },
+                {
+                  "type": "heading",
+                  "primary": {
+                    "heading": [
+                      {
+                        "type": "heading2",
+                        "text": "The OU in Ireland",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "The Open University\n110 Victoria Street\nBelfast\nBT1 3GN",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Telephone: +44 (0)28 9024 5025",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "back_to_top"
+                },
+                {
+                  "type": "heading",
+                  "primary": {
+                    "heading": [
+                      {
+                        "type": "heading2",
+                        "text": "The OU in Scotland",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "The Open University\n10 Drumsheugh Gardens\nEdinburgh\nEH3 7QJ",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Telephone: +44 (0)131 226 3851",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "British Sign Language users can contact us direct by using the online sign language interpreter service provided by Contact Scotland BSL.",
+                        "spans": [
+                          {
+                            "start": 116,
+                            "end": 136,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://contactscotland-bsl.org/deafcallers"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "back_to_top"
+                },
+                {
+                  "type": "heading",
+                  "primary": {
+                    "heading": [
+                      {
+                        "type": "heading2",
+                        "text": "The OU in Wales",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "The Open University\n18 Custom House Street\nCardiff\nCF10 1AP",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Telephone: +44 (0)29 2047 1019",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "back_to_top"
+                },
+                {
+                  "type": "heading",
+                  "primary": {
+                    "heading": [
+                      {
+                        "type": "heading2",
+                        "text": "Students in Secure Environments (SiSE), including Community Support",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "Students in Secure Environments\nThe Open University\nFrank Henshaw Building\nHammerwood Gate\nKents Hill\nMilton Keynes\nMK7 6BY",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Telephone: +44 (0)300 303 6789",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Telephone (community support): +44 (0)1908 654053 ",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "For further contact options and information visit the SiSE website.",
+                        "spans": [
+                          {
+                            "start": 54,
+                            "end": 66,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "http://www.open.ac.uk/secure-environments/"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "back_to_top"
+                },
+                {
+                  "type": "heading",
+                  "primary": {
+                    "heading": [
+                      {
+                        "type": "heading2",
+                        "text": "Residential School Team",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "Residential School Team\nThe Open University\nHammerwood Gate\nKents Hill\nMilton Keynes\nMK7 6BY",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Telephone +44 (0)1908 653 235\n",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "back_to_top"
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "XJTGYxEAAPmxOQoK"
+              },
+              "title": "Postgraduate study and beyond",
+              "description": "Moving on to postgraduate study and beyond.",
+              "keywords": "module search, postgraduate study, module, research degrees, further postgraduate study, choose modules, professional short courses, research degrees, PGCE, higher apprenticeships",
+              "audiences": "student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "If you've completed a postgraduate qualification, there are more options for further study.",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Research degrees - an Open University doctoral degree is a prestigious qualification. You'll find more information in our Research degrees prospectus.",
+                        "spans": [
+                          {
+                            "start": 122,
+                            "end": 149,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "http://www.open.ac.uk/postgraduate/research-degrees"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Short courses - if you’re looking to progress in your career, you may also be interested in the range of professional short courses.",
+                        "spans": [
+                          {
+                            "start": 105,
+                            "end": 131,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://www.open.ac.uk/courses/short-courses"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Modular study - you can continue to study modules without studying towards another qualification. You can browse the list of modules to see if there's a particular subject that interests you or something specifically relevant to your career.",
+                        "spans": [
+                          {
+                            "start": 106,
+                            "end": 132,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "http://www.open.ac.uk/courses/modules"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "We offer some Higher apprenticeships.",
+                        "spans": [
+                          {
+                            "start": 14,
+                            "end": 36,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://www.open.ac.uk/business/apprenticeships"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "You can also request a careers consultation.",
+                        "spans": [
+                          {
+                            "start": 13,
+                            "end": 44,
+                            "type": "hyperlink",
+                            "data": {
+                              "id": "Xr0uKxAAAB4AbBmD",
+                              "type": "help_article",
+                              "tags": [
+                                "Opening hours"
+                              ],
+                              "lang": "en-gb",
+                              "slug": "careers-consultations",
+                              "first_publication_date": "2020-05-14T11:40:49+0000",
+                              "last_publication_date": "2022-05-25T08:54:51+0000",
+                              "link_type": "Document",
+                              "isBroken": false
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you need an academic reference you can either go to your Study record in StudentHome and print a copy, or use the online Request a reference process to tell us what you need. See References from the OU.",
+                        "spans": [
+                          {
+                            "start": 60,
+                            "end": 72,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://msds.open.ac.uk/students/study-record.aspx"
+                            }
+                          },
+                          {
+                            "start": 182,
+                            "end": 204,
+                            "type": "hyperlink",
+                            "data": {
+                              "id": "Xw3WABEAACIAYgaR",
+                              "type": "help_article",
+                              "tags": [],
+                              "lang": "en-gb",
+                              "slug": "references-from-the-ou",
+                              "first_publication_date": "2020-07-14T15:58:15+0000",
+                              "last_publication_date": "2023-02-20T14:00:00+0000",
+                              "link_type": "Document",
+                              "isBroken": false
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Postgraduate registration",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Watch this step-by-step guide on how to register on your postgraduate qualification.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "video",
+                  "fields": [
+                    {
+                      "video_title": "Postgraduate registration",
+                      "video_url": {
+                        "url": "https://media-podcast.open.ac.uk/feeds/4510/20200909T100950_6_PG_Registration_captioned1.mp4"
+                      },
+                      "video_poster": null,
+                      "video_duration": "3:38",
+                      "video_transcript": [
+                        {
+                          "type": "paragraph",
+                          "text": "There are four simple steps to register on a postgraduate qualification with the OU.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Our qualifications have start dates throughout the year, with the largest number starting in October, November and February.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "To start a postgraduate qualification, you first need to choose and enrol on a module that counts towards it.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "The enrolment deadline for most modules is usually about three weeks before the start date but this can vary so make sure you check the website for your module.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Please be aware that modules can get full so you should enrol early to avoid disappointment.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "If you've done postgraduate study at university before, you may be able to count your previous study towards your OU qualification.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Find out more about credit transfer on our website (open.ac.uk/study/credit-transfer).",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Let’s get started!",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Step one: First, you’ll need to navigate to your chosen qualification.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "It’s important to note the entry requirements as you may be asked to provide evidence for entry later on in the application process.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Some postgraduate qualifications have different routes, which will determine the modules available to you to study but all this information is available on the website so make sure you’re clear with the route you wish to take.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Contact us (open.ac.uk/contact) if you’re unsure and need advice about your study plans or the entry requirements.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Click on the first module you wish to study. At this point you can also check the full description of your first module as well as the entry requirements.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Step two: Once you're ready to proceed, click the ‘register’ button on the module page.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Whilst enrolling online you’ll be able to confirm which qualification you wish to count your module towards, or you can always do this later once you have access to your StudentHome (open.ac.uk/students).",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Speaking of your StudentHome (open.ac.uk/students), if you’ve studied with the OU before you’ll be able to login to your OU account whilst you’re enrolling. If you’re new to the OU, then once you’ve enrolled, you’ll be able to login to your StudentHome.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Step three: Once you’ve enrolled, you’ll be able to pay for your module straight away or return later to make payment. If you wish to pay later then please make note of the final enrolment date as you’ll need to make payment by then.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "You can also complete payment before you submit your evidence for entry.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Step four: If your chosen qualification and module has formal entry requirements and you don’t have a qualifying OU qualification, you’ll receive an email asking you to provide your evidence; this email might be different depending on the qualification requirements.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Follow the link in the email and the onscreen instructions, once submitted, our team will be in touch with you about your next steps.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Please make sure you submit all relevant evidence, not just your highest award.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Once we’ve confirmed your enrolment, we’ll be with you from day one, helping you discover the huge benefits of online learning. From familiarising you with the best resources available to exploring the amazing study materials on offer, we’ll encourage and support you to succeed from the start.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "As always if you need any help, then please contact us at open.ac.uk/contact.",
+                          "spans": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "For students who are interested in progressing to postgraduate level see Preparing for postgraduate study to find out more about what’s involved or browse our prospectus to find the course or qualification for you.",
+                        "spans": [
+                          {
+                            "start": 73,
+                            "end": 105,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "http://www.open.ac.uk/postgraduate/preparing"
+                            }
+                          },
+                          {
+                            "start": 148,
+                            "end": 169,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "http://www.open.ac.uk/postgraduate"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr1GbBAAACAAbIxN"
+              },
+              "title": "Follow up an existing complaint or appeal",
+              "description": "This form should only be used to follow up an existing complaint or appeal.",
+              "keywords": null,
+              "audiences": "student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": null
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "X79nPxMAACIAAJXr"
+              },
+              "title": "Studying more than one module",
+              "description": "Set of pages for students thinking about studying more than one module.",
+              "keywords": "studying more than one module, multiple modules, two modules, two modules at the same time, more than one module, full-time study, full time, fulltime, full-time, 120 credits, staggering modules, february study, april study, study intensity, 90 credits, three modules, four modules,",
+              "audiences": "student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": "This page is part of a set of pages called 'Studying more than one module' which is a guided journey and are meant to be viewed together. This is the first page of the set and it is in the IA and searchable but the others in the set are not. This is so that students are introduced to the set of pages and their purpose before viewing the separate pages. The creation of this set of pages involved several stakeholders in Academic Services (Senior advisors, Educational Advisors, Fees) and also OUSA.",
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "heading2",
+                        "text": "Introduction",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "This set of pages is for students who have chosen to study more than one module, or are thinking about doing so. Many students do this very successfully but there are things to think about and it’s worth taking the time now to consider your own circumstances and set yourself up for success.​",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "note",
+                  "primary": {
+                    "note_body": [
+                      {
+                        "type": "paragraph",
+                        "text": "If you're an apprentice your modules for your whole qualification have been agreed, so the information on these pages isn't relevant.  If you're wanting to explore alternative options, contact us to discuss your options.",
+                        "spans": [
+                          {
+                            "start": 185,
+                            "end": 195,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://help.open.ac.uk/contact"
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "note_style": "Standard",
+                    "note_title": null
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "Working through these pages will take you up to two hours if you do all the activities. Some parts might not be relevant to you and you can skip them,  but it's important to take the time now to make sure you're making the right choices for you. Bookmark this page in your browser so you can return to it if you don't have much time now.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "There are four steps",
+                        "spans": []
+                      },
+                      {
+                        "type": "o-list-item",
+                        "text": "Understanding how much time you need",
+                        "spans": []
+                      },
+                      {
+                        "type": "o-list-item",
+                        "text": "Restrictions and issues when studying more than one module",
+                        "spans": []
+                      },
+                      {
+                        "type": "o-list-item",
+                        "text": "Thinking about your pace of study",
+                        "spans": []
+                      },
+                      {
+                        "type": "o-list-item",
+                        "text": "Planning for successful study",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "",
+                        "spans": []
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "X-CjfhMAACMAktbP"
+              },
+              "title": "Useful links",
+              "description": null,
+              "keywords": null,
+              "audiences": "student, apprentice",
+              "hide_from_search": true,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": "This page is part of a set of pages called 'Studying more than one module' which is a guided journey and are meant to be viewed together. The first page of the set is in the IA and searchable but this page and the others are not. This is so that students are introduced to the set of pages and their purpose before viewing the separate pages.",
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "We wish you all the best in your studies, whatever pace you choose to study at.  ",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Here are some links you might find useful – to use now or to bookmark for future use:",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "link_list",
+                  "fields": [
+                    {
+                      "link_list_link": {
+                        "_linkType": "Link.document",
+                        "__typename": "Help_article"
+                      },
+                      "link_list_title": "Plan your time",
+                      "link_list_description": null
+                    },
+                    {
+                      "link_list_link": {
+                        "_linkType": "Link.document",
+                        "__typename": "Help_article"
+                      },
+                      "link_list_title": "Time management skills",
+                      "link_list_description": null
+                    },
+                    {
+                      "link_list_link": {
+                        "_linkType": "Link.document",
+                        "__typename": "Help_article"
+                      },
+                      "link_list_title": "Getting an extension to your assignment deadline",
+                      "link_list_description": null
+                    },
+                    {
+                      "link_list_link": {
+                        "_linkType": "Link.document",
+                        "__typename": "Help_article"
+                      },
+                      "link_list_title": "Defer from modules",
+                      "link_list_description": null
+                    },
+                    {
+                      "link_list_link": {
+                        "_linkType": "Link.web",
+                        "__typename": "_ExternalLink",
+                        "url": "https://www.open.edu/openlearn/education-development/being-ou-student/content-section-overview?active-tab=description-tab"
+                      },
+                      "link_list_title": "Being an OU student",
+                      "link_list_description": null
+                    },
+                    {
+                      "link_list_link": {
+                        "_linkType": "Link.web",
+                        "__typename": "_ExternalLink",
+                        "url": "https://learn2.open.ac.uk/course/format/ousubject/redirect.php"
+                      },
+                      "link_list_title": "Your Study website",
+                      "link_list_description": null
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "Don’t forget to contact your SST if you want to discuss your study plans. ",
+                        "spans": [
+                          {
+                            "start": 16,
+                            "end": 32,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://help.open.ac.uk/contact#ssts"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "X7z6wRMAACAA9lYQ"
+              },
+              "title": "Planning for successful study",
+              "description": null,
+              "keywords": null,
+              "audiences": "student, apprentice",
+              "hide_from_search": true,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": "This page is part of a set of pages called 'Studying more than one module' which is a guided journey and are meant to be viewed together. The first page of the set is in the IA and searchable but this page and the others are not. This is so that students are introduced to the set of pages and their purpose before viewing the separate pages.",
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "Now you have carefully considered your study choices it’s time to plan for success!",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Prepare",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you’re new to the OU make sure you take a look at Being an OU Student. This free course takes you through how OU study works, where to find everything and how to get support. By knowing more about what to expect from OU study you can be ready to get off to a good start.",
+                        "spans": [
+                          {
+                            "start": 53,
+                            "end": 72,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://www.open.edu/openlearn/education-development/being-ou-student/content-section-overview"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you’re a continuing student check your study website. You might find materials here to help you prepare. You can also look on OpenLearn for any relevant courses to boost your skills and knowledge and get you back in the study habit.",
+                        "spans": [
+                          {
+                            "start": 42,
+                            "end": 55,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://learn2.open.ac.uk/course/format/ousubject/redirect.php"
+                            }
+                          },
+                          {
+                            "start": 129,
+                            "end": 138,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://www.open.edu/openlearn/"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you have a disability have you told us and discussed any support you might need? Go to timescales for getting disability support for more information.",
+                        "spans": [
+                          {
+                            "start": 90,
+                            "end": 131,
+                            "type": "hyperlink",
+                            "data": {
+                              "id": "XrwARRAAAB8AZwRK",
+                              "type": "help_article",
+                              "tags": [],
+                              "lang": "en-gb",
+                              "slug": "timescale-for-getting-disability-support",
+                              "first_publication_date": "2020-05-13T14:12:29+0000",
+                              "last_publication_date": "2022-11-04T15:05:43+0000",
+                              "link_type": "Document",
+                              "isBroken": false
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Get organised",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Being organised is crucial to success. If you haven’t already, do put all your key dates onto a single calendar and think about how you will manage the weeks where you have a lot on. If you work can you book time off? Do you have any family or social events close to your deadlines.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Many students find setting a study schedule and sticking to it helps. Try drawing one up now. Don’t just assume you’ll study when you can, you need to be proactive about allocating the time.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Talk to your family or friends",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Once you have a calendar and schedule sit down with the people you live with (or others you are close to) and show them when you will be studying. It’s really important they understand that you need time to study. Work out ways you can study as uninterrupted as possible, can you negotiate that someone else picks up chores or takes your children out for some of your study periods? ",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Make sure the people around you understand the importance of your deadlines and that you will need more time to study some weeks, so may not be able to do all your normal activities. You could look ahead at your calendar together and plan some fun things to do in your quieter weeks, perhaps just after you’ve met several deadlines.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Get ahead",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Each module will have a study calendar giving you reading and tasks to do each week. While we do advise that you stick to this so that you get the most out of your tutorials and can benefit from discussions with your fellow students in forums, you can get a week or two ahead. This will then give you some space if you get busier on another module(s) or life gets in the way.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Don’t suffer in silence",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Don’t be afraid to talk to your tutor if you’re struggling. You won’t be penalised in your assignment scores because you have asked for help. Tutors understand that OU study is challenging and will treat you as an adult and find a way to get you back on track rather than tell you off for falling behind. They can offer you an extension on your assignment deadline, most students will need this at some point in their studies and it won’t count against you. It’s important to talk to them as early as possible, so try not to wait until the last minute.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "You might also find it helpful to talk to other students. As well as discussing the module content you can also share tips for keeping up with study. Use the forums on your module website and there are also lots of OU social media groups.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "If study does become too much",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you do find that you’re really struggling to keep up with studying more than one module you can defer from one or more modules. There is no shame in doing this, don’t feel like you’ve ‘failed’. If dropping a module to give you more time will help you enjoy and succeed in your studies overall then that is a positive thing. ",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "In the following video Senior Advisor Jamie Ireland talks about what to do if you do find you're struggling, how your SST can help and how you can return to a module.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "video",
+                  "fields": [
+                    {
+                      "video_title": "If study becomes too much - advice from Senior Advisor Jamie Ireland",
+                      "video_url": {
+                        "url": "https://media-podcast.open.ac.uk/feeds/studenthelpcentre/20201222T151850_If_study_becomes_too_much.mp4"
+                      },
+                      "video_poster": null,
+                      "video_duration": "2:22",
+                      "video_transcript": [
+                        {
+                          "type": "paragraph",
+                          "text": "If you are struggling with the module that you’re on due to the topics what I would always recommend in the first instance is to speak to your tutors. Get in contact with them by email or phone from the details that are on our website and just, you know, see if they can help you sort of get back on track with study and feel confident with moving forward.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "If you do feel that it is too much, and you do choose to defer there are still benefits to deferring and using that time to regroup and come back. What you could look at doing is focussing on any modules that you remain on and completing them. And then in any downtime between finishing those modules and starting the next ones or returning to the same module you can be using any material that you’ve already got. If you’ve got any books or if you’ve got any details downloaded from the website, any material that your tutor has given you or anything that you find on our student support website or subject support websites.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "If you are in doubt at all about deferring, I would strongly recommend getting in contact with the Student Support Team. The purpose of that is that you can get some tailored advice that’s going to be specific to you and your modules. And what we can do is run through and reflect with you about the options that you’ve got.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "And if you do choose to defer, we can help signpost to OpenLearn, which is a bit of a sister website that you can get information relating to your modules.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "The subject support websites. They have a wealth of information and hopefully some links to help prepare for coming back to those modules. And also, there might be some external websites that we can obviously let you know about which might help strengthen your abilities for when you are looking to return.",
+                          "spans": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "It’s important that if you do need to defer you do not just stop studying a module. You must contact your SST and tell them you want to defer. You can phone us to discuss or send an email, but make sure you follow up on anything we send you, otherwise you will continue to be liable for fees on the module. You might be able to keep any assignment scores you’ve already achieved and carry them over to when you next start the module, but an advisor will discuss that with you.",
+                        "spans": [
+                          {
+                            "start": 84,
+                            "end": 141,
+                            "type": "strong"
+                          },
+                          {
+                            "start": 93,
+                            "end": 109,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://help.open.ac.uk/contact#ssts"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "X9NC4xMAACMAV9e-"
+              },
+              "title": "Thinking about your pace of study",
+              "description": null,
+              "keywords": null,
+              "audiences": "student, apprentice",
+              "hide_from_search": true,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": "This page is part of a set of pages called 'Studying more than one module' which is a guided journey and are meant to be viewed together. The first page of the set is in the IA and searchable but this page and the others are not. This is so that students are introduced to the set of pages and their purpose before viewing the separate pages.",
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "It’s worth thinking about why you are studying more than one module at once. Is it because you want to complete your studies as quickly as possible so you can start your career? Perhaps you feel pressure to ‘keep up’ with peers who are completing degrees in three years. Think about why it is important to you to complete your studies quickly.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Achieving your career goals",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If your goals and motivations are focussed around starting, changing or progressing your career it’s important to note that you don’t necessarily have to have completed your qualification to do this. If you only study 60 credits a year it can feel like a long time until you’ll have your degree but consider the following:",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Many employers will consider you for roles (or internal promotions) because you are studying. The fact you are doing this shows commitment to your personal and professional development, time management and organisational skills and increases your future potential as an employee – it’s not just about having the qualification.",
+                        "spans": [
+                          {
+                            "start": 68,
+                            "end": 92,
+                            "type": "strong"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "You can claim a Certificate of Higher Education after you complete 120 credits and a Diploma of Higher Education after you complete 240 credits while continuing to work towards a full degree. You’ll have a certificate you can show employers sooner than you think.",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "By studying part-time you may have time to also find paid work, whether full or part-time. Even if it’s not in the industry or job role you are aiming for you can build transferable skills and experience.",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "You can also volunteer alongside your studies. Volunteering gives you valuable skills and experience as well as opportunities to socialise. The Open University Students Association offers many different ways to get involved and our Careers and Employability Service can also help you find suitable opportunities.",
+                        "spans": [
+                          {
+                            "start": 144,
+                            "end": 180,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://www.oustudents.com/"
+                            }
+                          },
+                          {
+                            "start": 232,
+                            "end": 265,
+                            "type": "hyperlink",
+                            "data": {
+                              "id": "Xr0u8hAAACAAbCEh",
+                              "type": "help_collection",
+                              "tags": [],
+                              "lang": "en-gb",
+                              "slug": "careers-and-employability",
+                              "first_publication_date": "2020-05-14T11:44:21+0000",
+                              "last_publication_date": "2021-11-12T15:08:41+0000",
+                              "link_type": "Document",
+                              "isBroken": false
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you're thinking about your career goals and how you can make them happen sooner you can book a careers consultation with our Careers and Employability service. We also provide lots of online help, from planning your career to the practicalities of applications and interviews.",
+                        "spans": [
+                          {
+                            "start": 91,
+                            "end": 118,
+                            "type": "hyperlink",
+                            "data": {
+                              "id": "Xr0uKxAAAB4AbBmD",
+                              "type": "help_article",
+                              "tags": [
+                                "Opening hours"
+                              ],
+                              "lang": "en-gb",
+                              "slug": "careers-consultations",
+                              "first_publication_date": "2020-05-14T11:40:49+0000",
+                              "last_publication_date": "2022-05-25T08:54:51+0000",
+                              "link_type": "Document",
+                              "isBroken": false
+                            }
+                          },
+                          {
+                            "start": 205,
+                            "end": 225,
+                            "type": "hyperlink",
+                            "data": {
+                              "id": "Xr0uKxAAAB4AbBlH",
+                              "type": "help_article",
+                              "tags": [],
+                              "lang": "en-gb",
+                              "slug": "career-planning-process",
+                              "first_publication_date": "2020-05-14T11:40:49+0000",
+                              "last_publication_date": "2022-08-03T15:30:00+0000",
+                              "link_type": "Document",
+                              "isBroken": false
+                            }
+                          },
+                          {
+                            "start": 251,
+                            "end": 278,
+                            "type": "hyperlink",
+                            "data": {
+                              "id": "Xr0u8hAAACAAbCD5",
+                              "type": "help_collection",
+                              "tags": [],
+                              "lang": "en-gb",
+                              "slug": "cvs-applications-and-interviews",
+                              "first_publication_date": "2020-05-14T11:44:21+0000",
+                              "last_publication_date": "2020-07-14T16:06:19+0000",
+                              "link_type": "Document",
+                              "isBroken": false
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "How important to you are your grades?",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "While many students do study more than one module very successfully, it can have an impact on your grades and therefore your overall classification. If it's really important to you to achieve a 2:1 or First Class honours, whether for your career (for example you need it to get on a graduate scheme),  further study plans (to be accepted on a postgraduate programme) or simply for personal achievement then do weigh up the risk that studying at a faster pace may compromise your grades as you'll have less time to dedicate to each module.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "The grades from your Stage 1 modules don’t count towards your final classification. You might therefore consider studying more than one module at the same time at Stage 1 (for example completing two 60 credit modules at the same time to complete Stage 1 within a year) and then dropping to a slower pace for Stages 2 and 3.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Considering reducing your pace of study?",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Having read this information you might be feeling confident that you can manage the amount of study you're taking on, understand any issues this may cause you and feel happy that your choices are right for your circumstances and goals.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you’re not feeling so confident, however, you can choose now not to study one or more of your modules. Doing this now will allow you to fully concentrate on the module(s) you do study. ",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "In the following video Senior Advisor Jamie Ireland talks about how you can use deferral as a tool to help you succeed in your studies overall.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "video",
+                  "fields": [
+                    {
+                      "video_title": "Deferring when studying more than one module - advice from Senior Advisor Jamie Ireland",
+                      "video_url": {
+                        "url": "https://podcast.open.ac.uk/feeds/studenthelpcentre/20210104T121115_deferring_when_studying_more_than_one_module.mp4"
+                      },
+                      "video_poster": null,
+                      "video_duration": "2:24",
+                      "video_transcript": [
+                        {
+                          "type": "paragraph",
+                          "text": "It’s really important to keep in mind that deferral is not defeat. That’s a mindset that I’ve, I come across a lot. And it’s a state of mind that we need to, sort of, chuck out a little bit.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "With deferral its purpose is to help, and it can be used as a tool to regroup. ",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "The way I tend to look at it is in quite militaristic terms.  It’s basically using it as a tactical retreat potentially. Because what you can do is you can focus on any number of modules that you might want to keep hold of and any module that you defer, you know, you can come back to them at a later date. With a better situation and most likely a lot more energy for it as well.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "When looking at deferral it is always better to consider that option earlier if you’ve got your concerns.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "If it’s before a module starts, we can look at taking that module out quite easily and without any cost.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "When it comes to when it’s already started there are still safety nets financially. However, they are at their best earlier into the module, especially in the first couple of months.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "What you can use those first couple of months for is to gauge how much study, you know, how much time study is taking and use that to, you know, project a little bit and say is this manageable.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "If you don’t think it’s manageable, that’s where we can use deferral as a tool to make that, make the amount of study that you are doing a lot more manageable. And in the long term, sort of, with a long-term goal of the qualification that you’re on, that might help as well. Because it’s important not to rush because that can affect your qualification as well.",
+                          "spans": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "If you have enrolled on a module you no longer wish to study you need to contact your student support team (SST) to defer from it. You must do this to avoid being liable for module fees. Talking to your SST can also help you make a decision about what to study and you can discuss your longer-term study plans with them. They’re here to help so, if you want to talk, contact your SST now.",
+                        "spans": [
+                          {
+                            "start": 65,
+                            "end": 113,
+                            "type": "strong"
+                          },
+                          {
+                            "start": 367,
+                            "end": 383,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://help.open.ac.uk/contact#ssts"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "X9MyCBMAACIAV5X0"
+              },
+              "title": "Understanding how much time you need",
+              "description": null,
+              "keywords": null,
+              "audiences": "student, apprentice",
+              "hide_from_search": true,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": "This page is part of a set of pages called 'Studying more than one module' which is a guided journey and are meant to be viewed together. The first page of the set is in the IA and searchable but this page and the others are not. This is so that students are introduced to the set of pages and their purpose before viewing the separate pages.",
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "When you choose your modules for OU study you can usually select up to 120 credits at once. You don’t have to do 120 credits, however. Most students study 60 credits (usually one, sometimes two modules) at any one time. Studying more than one module at once can be done, many students study this way very successfully, but you need to be prepared.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "OU modules are designed to be studied individually so students can fit study around other aspects of their lives. While you can study more than one module at once, it does mean you are likely to face some issues with your studies such as clashes of assignment deadlines and tutorials, as well as having a heavy workload overall.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "This video, along with the information that follows provides some tips and tools to help you effectively plan your study time.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "video",
+                  "fields": [
+                    {
+                      "video_title": "Planning your time",
+                      "video_url": {
+                        "url": "https://media-podcast.open.ac.uk/feeds/studenthelpcentre/20210825T094046_PlanningYourTime.mp4"
+                      },
+                      "video_poster": null,
+                      "video_duration": "2:42",
+                      "video_transcript": [
+                        {
+                          "type": "paragraph",
+                          "text": "Narrator: Taking time to plan when you’ll study is a great way to stay on track and make the best use of your time. It’s especially important if you’re planning to study more than one module at the same time. ",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "You'll need to consider some extra things like assignment due dates that are close together, or tutorial dates that might clash. And make sure you know the total estimated hours per week you’ll need for study across all of your modules. ",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "It’s a good idea to create a weekly study calendar to help you visualise the time you have for study. First, just fill in all the activities you normally do in a week. Be as thorough as you can, and be realistic about the time you spend on these activities.  ",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Your week might include work and commuting. And think about household chores, childcare and other caring responsibilities. Or perhaps you need to factor in something like volunteering. ",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Then, consider other day-to-day activities such as exercise and meals. ",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Remember you’ll need time to relax. Whether that’s time with family, friends or watching your favourite show - we all need some time to recharge! ",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "You’ll now have an idea of the time you have available for study. Make sure you feel confident that you can manage the amount of study hours you need. ",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "You may have a few hours here and there or you may have larger blocks of time. ",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Think about how you might prefer to study – whether that’s in short bursts or for longer periods to really focus.   ",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "If you are short on time, are there any activities you can stop doing? Can you get help with any of your responsibilities? ",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "You can always discuss any concerns with your Student Support Team. They can help you reflect and advise you on your options. ",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Now that you know when you have time to study, use your calendar to plan your study week-by-week, using the study planners on your module websites as a guide. Make sure you schedule in time for assignments and tutorial dates, so you can plan for weeks when you may need to set aside extra time. ",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Maybe share your plan with someone so they can support you and know when you need to study. ",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Also, think about holidays or other weeks where you’ll have less time for study.  Try to get ahead before these so you don’t fall behind. ",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Your tutor can also help you stay on track. They can help you prioritise what to study and may be able to offer you a short extension to an assignment. Don’t hesitate to contact them if you feel you’re struggling.  ",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "For further support with your study options visit the Help Centre at help.open.ac.uk",
+                          "spans": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "heading2",
+                        "text": "How many hours will I need to study?",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Check what modules you plan to study. You will need",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "16–18 hours a week for each 60 credit module",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "14 hours a week for each 30 credit module if it runs over 6 months (22 weeks)",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "8–9 hours a week for each 30 credit module if it runs over 9 months (30 weeks)",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Add up how many hours you'll need in a typical week. ",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "It can be hard to visualise how these hours look across a week. Use our time planner to check how many hours you have available for study. When you fill it in really think about other demands on your time. As well as any paid work you do, also think about caring responsibilities, household chores and hobbies. You also need to allow yourself some time to rest and relax so don’t block out every available hour for study.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "action_link",
+                  "primary": {
+                    "style": "Primary",
+                    "action_link_link": {},
+                    "action_link_title": "Complete the time planner"
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "heading2",
+                        "text": "How much time will I really need?",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "The time you actually need each week will vary, so you need some flexibility in your schedule. Some parts of each module will take you longer than others, we all find different things difficult, you may already be familiar with some concepts while others will be completely new to you. ",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "You'll also need to dedicate more time to studying in the weeks leading up to an assignment (TMA or iCMA) deadline and your end of module assessment (exam, EMA or emTMA). While a 30 credit module requires fewer study hours per week than a 60 credit module, you will still need to put in a significant amount of work for each assignment. ",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "You're likely to have assignment deadlines close together if you're studying more than one module. If, for example, you are studying two 30 credit modules plus a 60 credit module, or four 30 credit modules, you'll have a lot of assignments to juggle. Check now when your deadlines are, can you block out additional time in the weeks leading up to them?",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading3",
+                        "text": "How much study can I realistically do in an hour?",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Many students fit in study in small chunks of time around their other commitments – grabbing half an hour or an hour where they can. This works well for many students. However, especially where you do have a heavy workload, it's worth considering how much you can actually get done in an hour (or less). Many students find they take a while to get their mind into study each time they sit down to start, and this can be especially difficult when you're studying multiple modules.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading3",
+                        "text": "Timer exercise",
+                        "spans": []
+                      },
+                      {
+                        "type": "o-list-item",
+                        "text": "Choose a time from your time planner that you have allocated for study. (to do this exercise you ideally want around two hours of time available to you from when you start) ",
+                        "spans": []
+                      },
+                      {
+                        "type": "o-list-item",
+                        "text": "Go to OpenLearn (the OU’s free learning website)",
+                        "spans": [
+                          {
+                            "start": 6,
+                            "end": 15,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://www.open.edu/openlearn/"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "o-list-item",
+                        "text": "Choose a course that interests you – if you’re new to the OU we recommend Being an OU student - and sign up for it.",
+                        "spans": [
+                          {
+                            "start": 74,
+                            "end": 93,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://www.open.edu/openlearn/education-development/being-ou-student/content-section-overview"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "o-list-item",
+                        "text": "Just before you actually start the course, set a timer for one hour",
+                        "spans": []
+                      },
+                      {
+                        "type": "o-list-item",
+                        "text": "Start working through the course. If anything stops you studying (for example you get distracted by social media, someone interrupts you, or even you just need to take a break from the screen) stop the timer.\n",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "If you manage to study for an hour mostly uninterrupted then that’s great. If, however, you do stop for any reasons note how much longer than the hour you have planned it actually takes you to do an hour of study. Bear this in mind when you're planning your time, often you won’t be able to do everything you’d like to in your allocated timeslots so will need some contingency.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "Yr25RxIAACIA-lUr"
+              },
+              "title": "How to find a lost or hidden file",
+              "description": "Recommended procedures for tracking down a missing file.",
+              "keywords": "Windows, Explorer, Mac, Finder, Spotlight, search, date, created, modified, restore, hidden files, look for",
+              "audiences": "student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": null,
+                  "related_links_title": null,
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": false,
+              "notes": null,
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "Here are some hints and tips on how to find lost and hidden files.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Finding a lost file",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "It can be frustrating when you lose a file on your computer, however regularly saving a file to a logical place will help you locate it. If you do forget where you saved a file, here are some tips on how to find it.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Check the Recycle Bin or Trash",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Double-click on the icon of the waste bin and if the lost file is in there, drag it to the folder you want it to be in and let go.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "If you know the application you were using to update the file",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "For most applications, when you open them, the most recent files you have been working on will be listed for you to select. If that isn’t the case, you can look at the help information provided with the application.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you’re looking for a file you downloaded from the internet there should be a copy of it in the Downloads folder on your computer.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "If you know your file's name",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you know the name of the file or can remember unique or unusual words you used, you can use that to search for the file.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading3",
+                        "text": "Windows",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you’re using Windows 10 or 11 you can use search in the taskbar. If you’re using an older Windows machine press the Windows key + E to open your File Explorer. You can then use the search box here to find your file.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading3",
+                        "text": "Mac",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Press CMD + spacebar to open the Spotlight Search which you can use to find your file.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "If you recall the date you last updated the file",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading3",
+                        "text": "Windows",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Open File Explorer, with Windows key + E and select This PC (or My Computer in older Windows versions). Click into the search box and add a word to start a search, this will make the Search Tools tab open at the top. Use the Date modified option to search for a specific time period, e.g., Today, this week, last year. Don't forget to remove the word you used to open the Search Tools tab from the search box.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "The Date modified search will give you a list of everything that has been updated on the PC, including any software updates, during the time period you select.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading3",
+                        "text": "Mac",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "In Spotlight Search you have the options of three different dates: created, modified and last opened. For this purpose you’d use the date modified.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Hidden files",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Some files are hidden by default by your device’s operating system. This is to protect important files from being deleted so that the system is not damaged. It's possible to show these hidden files if you need to look at them. ",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "For finding hidden files on: ",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Windows see the Microsoft support article View hidden files and folders in Windows. ",
+                        "spans": [
+                          {
+                            "start": 42,
+                            "end": 82,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://support.microsoft.com/en-au/windows/view-hidden-files-and-folders-in-windows-97fbc472-c603-9d90-91d0-1166d1d9f4b5",
+                              "target": "_blank"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Mac see the Apple Community question, How do I show hidden files on my mac. ",
+                        "spans": [
+                          {
+                            "start": 38,
+                            "end": 74,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://discussions.apple.com/thread/7581737",
+                              "target": "_blank"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "node": {
+              "_meta": {
+                "id": "YgpLoRMAAMZpRaId"
+              },
+              "title": "Introduction",
+              "description": "Safeguarding is the action taken to both promote the welfare of children and vulnerable/protected adults.",
+              "keywords": "Abuse, Access to children, Aggression, Alcoholic, Alienated, Anxiety, Assault, At risk, Attack, Beaten up, Bi-polar, Bruises, Bruising, Blackmail, Bullying, CAFCASS, Carer , Charged with, Child protection, Child on adult abuse, Court case, Child abuse, Coercive control, Controlling, Criminal, Debt , Despair, Disability, Divorce, Domestic abuse , Drugs, Elder abuse, Family emergency, Fleeing the home, Feeling unsafe, Fight, Gangs , Going into a refuge, Hacked, Homelessness, Hospital, Indecent images , Isolation, Hitting, Knife, Kicking, Lashed out, Medication, Molested , Murdered, Narcissist, Neglect, Not coping, Overdose, Offensive, Paedophile, Police, Pornography, Pregnant, Protected adult, Psychiatric, PTSD, Rape, Restraining order, Sectioned, Self harm, Separated, Sexual abuse , Slapping, Stalking, Stress, Social Services, Suicide, Temporary accommodation, Threatening behaviour, Threats of harm, Trauma, Triggered, Triggering, Torture, Victim, Vulnerable, Vulnerable adult, under 18, young students, protection for young people,  protecting children, care for adult, caring for adult, adult care, adult help,",
+              "audiences": "student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": {
+                    "url": "https://help.open.ac.uk/documents/policies/ensuring-the-safety-of-children-and-vulnerable-protected-adults"
+                  },
+                  "related_links_title": "Safeguarding - Ensuring the Safety of Children and Vulnerable/Protected Adults",
+                  "related_links_description": [
+                    {
+                      "type": "paragraph",
+                      "text": "The OU's Safeguarding policy",
+                      "spans": []
+                    }
+                  ]
+                },
+                {
+                  "related_links_link": {
+                    "url": "https://help.open.ac.uk/browse/mental-health-wellbeing-and-welfare/mental-health-and-wellbeing"
+                  },
+                  "related_links_title": "Mental health and wellbeing",
+                  "related_links_description": [
+                    {
+                      "type": "paragraph",
+                      "text": "Mental health and wellbeing support and resources",
+                      "spans": []
+                    }
+                  ]
+                },
+                {
+                  "related_links_link": {},
+                  "related_links_title": "Domestic abuse support",
+                  "related_links_description": [
+                    {
+                      "type": "paragraph",
+                      "text": "Domestic abuse support and resources ",
+                      "spans": []
+                    }
+                  ]
+                }
+              ],
+              "related_links_enabled": true,
+              "notes": null,
+              "body": [
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "Safeguarding is the action taken to promote the welfare of children and vulnerable adults and protect them from abuse such as:",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "physical, emotional or sexual abuse",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "neglect",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "financial",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "exploitation",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "radicalisation",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you or someone else is at immediate risk of harm in the UK, call 999. If you're outside of the UK, call 112.",
+                        "spans": [
+                          {
+                            "start": 0,
+                            "end": 111,
+                            "type": "strong"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "heading2",
+                        "text": "Definitions",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading3",
+                        "text": "Child or children",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "A child is anyone who has not yet reached their 18th birthday. The fact that a child has reached 16 years of age, is living independently or is in further or higher education, does not change their status or entitlements to services or protection.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading3",
+                        "text": "Vulnerable adult",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Vulnerable adult is an umbrella term – also known as ‘protected adult’ or ‘adult at risk’ - which accommodates a person aged 18 or over (or aged 16 or over in Scotland) who is, or may be:",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "in need of services because of their mental health or other disability, age or illness",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "unable to take care of themselves, or unable to protect themselves against significant harm, abuse or exploitation, including being drawn into terrorism.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "In Scotland, a protected adult is someone aged 16 or over who is considered ‘at risk’ because:",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "they are unable to look after their own wellbeing, property, rights or other interests",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "they are at risk of harm (more than other adults)",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "they have a disability, mental disorder, illness or physical or mental infirmity.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }

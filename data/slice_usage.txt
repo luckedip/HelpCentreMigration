@@ -1,0 +1,21 @@
+SLICE USAGE	
+----------------------	
+Introduction	248     INCLUDED
+Rich text	    1845    INCLUDED
+quote	        168     INCLUDED
+icon_list	    65      INCLUDED
+video	        66      INCLUDED
+audio	        36      INCLUDED
+link_list	    395     INCLUDED
+on_this_page	45      INCLUDED
+heading	        318     INCLUDED
+back_to_top	    297     INCLUDED
+image	        93      INCLUDED
+table	        80      INCLUDED
+action_link	    38      INCLUDED
+calendar_banner	2       ** EXCLUDED ** --> not coded
+html	        5       INCLUDED 
+note	        56      INCLUDED
+steps	        17      INCLUDED
+document	    14      EXCLUDED --> not coded
+clear_float	    23      INCLUDED

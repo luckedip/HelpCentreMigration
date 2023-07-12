@@ -1,0 +1,410 @@
+{
+    "data": {
+      "allHelp_articles": {
+        "edges": [
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0dSBAAAB8Aa9UJ"
+              },
+              "title": "Managing stress",
+              "body": [
+                {},
+                {
+                  "label": null,
+                  "type": "introduction",
+                  "primary": {
+                    "introduction_text": "Exams and assignments can be uncomfortable experiences for many students and it can be difficult to do yourself justice. Preparing assignments, revising and taking exams can make you feel anxious and stressed. In this section you'll find audio files to download so you can listen to our ideas for dealing with revision and the exam, or use the relaxation exercises."
+                  }
+                },
+                {
+                  "label": null,
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "Knowing how to cope with the demands of exams and assignments can vastly improve the experience for you. Visualisation techniques and self-talk can make a real difference, as an alternative or in addition to relaxation exercises.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Some students find medical advice for their anxiety helpful. If you have any other exam related problems or difficulties, you can contact your Student Support Team.",
+                        "spans": [
+                          {
+                            "start": 130,
+                            "end": 163,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://help.open.ac.uk/contact#ssts"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "label": null,
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "heading2",
+                        "text": "Relaxation techniques",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Relaxation exercises are an effective way of managing anxiety and stress. Listen to this relaxation audio when you are at home or in a comfortable and safe place. Although these clips refer to taking an exam at an exam centre, they can still be useful relaxation exercises.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                },
+                {
+                  "label": null,
+                  "type": "audio",
+                  "fields": [
+                    {
+                      "audio_url": {
+                        "_linkType": "Link.web",
+                        "url": "https://podcast.open.ac.uk/feeds/skills-for-ou-study/20110929T105929_relaxation-techniques-male.mp3"
+                      },
+                      "audio_title": "Male relaxation voice",
+                      "audio_duration": "1016",
+                      "audio_transcript": [
+                        {
+                          "type": "paragraph",
+                          "text": "Welcome to the first of two audio relaxation exercises. The first is aimed at physical relaxation to enable you to reduce extreme physical tension, whilst the second focuses on the mental preparation for revision and the exam itself although it could be used in a variety of other contexts. It’s important to practice both the exercises as the ability to relax and control tension at will is a skill that is learned over time. It can then be applied when you feel the tension begin to mount and you need to clear your mind. Some of these techniques may already be familiar to you. If so, you will have a head start, but you will find that these exercises have the exam stress student especially in mind. While you listen to these exercises remember that the more you are able to concentrate and follow my instructions, the faster you will be able to learn to relax in even the most anxious situations.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Try to avoid falling asleep afterwards. However, you will find that the exercise will be most effective if you are not overtired and you are able to give it your full attention.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Exercise 1 – Physical Relaxation",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "To start with it is important that you are feeling comfortable, so loosen any tight clothing and remove any uncomfortable jewellery.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "The intentions of this training will be to help you to be in control of your own state of relaxation whenever you want to.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "To start close your eyes. You will already feel a release of tension by cutting out distractions of light and movement. Keep your eyes closed for a few moments, and feel the relaxation flow through your body. Then open your eyes again and feel the tension begin to build. It’s easier to focus on your internal feelings with your eyes closed, so please keep them closed during the rest of the session. Concentrate now on your breathing. Take a deep breath and hold it. Think about the tension building up while you hold it, and then let it go all at once. Feel how much more relaxed you feel already, as you start breathing normally again. Each time you breathe out you will feel more relaxed than you did before. Concentrate on your breathing for a while. Each time you breathe out say the word ‘Relax’ to yourself, so helping to cut out other thoughts from your mind. Continue to do this for several moments.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Notice that while you do this your body will feel heavy, but as you become more relaxed your head clears. You’re more aware, you can think clearly and feel completely calm and serene. I’m now going to concentrate on helping you to learn complete physical relaxation to enhance these feelings. I will ask you to go through a series of tensing and relaxation exercises, so that you can learn to release the tension in every part of your body. The trick is to tense each part of your body as I ask you, and keep the tension for several moments, and then to release it all at once.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Let’s begin with your hand. Now clench your fist really tightly, so hard that your fingers are digging into your palms. Hold it there for a few seconds and then let it go all at once. You will feel the tension release as you do so, and it is replaced by a pleasant and relaxed feeling. Now tense the hand again, but this time try to ensure that it is just your hand that is tense, so that the rest of your body remains relaxed. Tense your hand and slowly count to 10. Feel the contrast between the tension in your hand and the relaxation in the rest of your body. When you have counted to 10 release your hand, and let the relaxation from the rest of your body flow into your hand. Now repeat this exercise with the other hand. Clench your fist really hard until it hurts. Count to 10 and then release it. See how pleasant you begin to feel now that you are gaining control of physical and mental tension.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "In order to increase your ability to do this and to achieve even more complete relaxation I want you to learn to tense and relax each part of your body by starting with your toes and moving right up to your head. Doing this will enable you to achieve complete physical relaxation. While you do the physical exercises concentrate on your internal feeling of relaxation and mental calmness. Let’s start with your toes. Curl them up and stretch your foot. First your right and then your left. Then tense the muscles in your legs, your calves and thighs. Now tense your buttocks and your stomach. As the tension moves up through the body into your chest take a deep breath and hold it just as you did before. Now feel the tension moving into your shoulder blades, up into your neck and into your face. Feel the tension by clenching your teeth, screwing up your eyes, and frowning to bring the tension right up through your forehead to the top of your head. Now hold this state of tension for as long as you can, and as I count to 3 let the tension go all at once. One, two, three. Release and breathe out slowly. As you do so feel your muscles begin to relax. As you breathe slowly and evenly you will feel more relaxed. Your body will begin to feel heavy but relaxed, and you will feel pleasantly calm and warm, rather as though you have just woken naturally from a relaxing sleep. You will feel physically rested but mentally aware. While you are feeling relaxed in this way think of a situation in which you are feeling completely at ease with no tension, worries or anxieties. Perhaps you can imagine that you are floating effortlessly down a beautiful stretch of river, lying in a comfortable boat on a beautiful, sunny day. You are at peace with yourself and the world while you are doing this. Imagine yourself in this or some other similar situation. Concentrate on your gentle breathing while you do this, and check that all your muscles are still relaxed. You will notice that while you’re in this relaxed state your mind becomes clearer and clearer. You are able to deal easily with your thoughts as they come and go, and to focus your mind clearly.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "As you become more skilled in training yourself to relax at will you will learn that for you tension begins to build up in particular places. It maybe your shoulders or your hands. Try to become aware of these places as you will be able to check the tension in these parts of your body frequently. It will enable you to have an early warning system that tension and anxiety are building up, and that you need to take steps to relax. You will find that you can use this technique to stop little annoyances building up during the day, so that you do not end up feeling stressed and over-tired with a crushing headache.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Check now throughout your body starting with your toes and your legs, buttocks, stomach, chest, shoulders and finally your neck, face, and hands. Find any areas where physical tension has begun to return. To do this tighten your fist a little and then release. Let the muscles in your hand and fingers droop completely. Check that your arm is also fully relaxed. Now make sure that all the other areas of your body are as fully relaxed as your hand and arm.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Take special notice that there is no tension in your face, shoulders or neck as these are often tense areas of which we are not aware. Let your mouth drop slightly open so that your jaw is relaxed, and also your shoulders drop slightly. Now that you are still completely relaxed think again of your imaginary situation. Whether its floating down a river or whatever. Enjoy the warm and peaceful feeling. Enjoy feeling calm and serene, and at one with yourself and surroundings. Enjoy knowing that you can now return to these feelings of peace at will through total relaxation. Continue to relax for a few moments more.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "I shall now count backwards slowly from 10. While I do so allow the muscle tension to return gradually, but don’t let the feelings of peace go, and when I reach 5 let your eyes open and then begin to stretch a little. 10, 9, 8, 7, 6, 5, 4, 3, 2, 1. Open your eyes now, and get up and enjoy the feeling of relaxation which you have.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Welcome to the second relaxation exercise. This focuses on mental preparation and revision for the exam itself.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Exercise 2 – Mental Relaxation",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Make sure that you are sitting completely comfortably, with your legs outstretched and uncrossed, arms by your side. Let your eyes close, breathe slowly and focus on the key word which is ‘Relax’, and let your body unwind and relax more. Keep your breathing regular and shallow, and every time you breathe out relax a little more. There is no tension in your hands, arms and shoulders. There is no tension in your neck, or your forehead, and your eyes are lightly closed, and there is no tension around your eyes. There is no tension in your jaw. Your teeth are slightly apart, and your lips are lightly together, and your tongue is relaxed. There is no tension in your stomach muscles, your hips, or your back, or your legs. Your chest is relaxed and at ease. You’re breathing more slowly and comfortably, and every time you breathe out you relax a little more. Focus on the key word ‘Relax’ and allow your body to unwind more and more, and become deeply relaxed. Just feel the relief of letting go.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Now imagine that you are going into the exam. As you listen to each thing I say imagine the situation as vividly as you can possibly can. Imagine the sights, the smells, and the people present. The invigilator, the clock, the exam question paper, your pen and imagine yourself in the situation doing the exam. Try to put in as much detail as possible, and try and see the images in colour, occupying space, and make them as realistic as possible. Absorb all the details as closely as you can, and if at any time you begin to feel anxious immediately use your relaxation to keep the anxiety low and under control. Above all see yourself in the exam room taking time to read the question, taking time to plan your answer, performing slowly but confidently and effectively, and in a relaxed way. Don’t hide from any detail that might make the situation more realistic. Use your relaxation, use the key word ‘Relax’ to control the anxiety that comes up, but don’t allow the anxiety to spiral. Notice when it begins and use the relaxation response to keep it all under control. Imagine how you feel, how well you are performing, and now begin to see yourself more and more confident, relaxed and at ease. See yourself going into the exam room, even enjoying the process of doing the exam. Remember you’re doing the exam for you, for no-one else. Say, ‘I can pass my exam if I focus on relaxing’, any time you feel anxiety arise. Say to yourself, ‘I can make this OK by looking for positive features in the situation’. Think for the moment of some of the positive features.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Go back and again imagine moving slowly and comfortably to your desk. Do not rush away if a little anxiety begins. Use your relaxation and your self-encouragement to put this anxiety under control. Imagine yourself being confident and easy for some moments. Say to yourself I will use the sights through the window to help me control my anxiety. I could count the cars, or trees, or lights. I will use quick relaxation to control my anxiety. Check over all your body and feel the relaxation. Feel the excitement of free attention to answer the questions. Say to yourself ‘I know that I can do it’. Now continue to concentrate on the relaxation for a few more minutes, and then when you are ready open your eyes and come back to the room.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Stretch your body, your arms, legs, back, neck and take a moment to feel what your body feels like after it has been really relaxed.",
+                          "spans": []
+                        }
+                      ]
+                    },
+                    {
+                      "audio_url": {
+                        "_linkType": "Link.web",
+                        "url": "https://podcast.open.ac.uk/feeds/skills-for-ou-study/20110929T110233_relaxation-techniques-female.mp3"
+                      },
+                      "audio_title": "Female relaxation voice",
+                      "audio_duration": "913",
+                      "audio_transcript": [
+                        {
+                          "type": "paragraph",
+                          "text": "Welcome to the first of two audio relaxation exercises. The first is aimed at physical relaxation to enable you to reduce extreme physical tension, whilst the second focuses on the mental preparation for revision and the exam itself although it could be used in a variety of other contexts. It’s important to practice both the exercises as the ability to relax and control tension at will is a skill that is learned over time. It can then be applied when you feel the tension begin to mount and you need to clear your mind. Some of these techniques may already be familiar to you. If so, you will have a head start, but you will find that these exercises have the exam stress student especially in mind. While you listen to these exercises remember that the more you are able to concentrate and follow my instructions, the faster you will be able to learn to relax in even the most anxious situations.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Try to avoid falling asleep afterwards. However, you will find that the exercise will be most effective if you are not overtired and you are able to give it your full attention.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Exercise 1 – Physical Relaxation",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "To start with it is important that you are feeling comfortable, so loosen any tight clothing and remove any uncomfortable jewellery.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "The intentions of this training will be to help you to be in control of your own state of relaxation whenever you want to.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "To start close your eyes. You will already feel a release of tension by cutting out distractions of light and movement. Keep your eyes closed for a few moments, and feel the relaxation flow through your body. Then open your eyes again and feel the tension begin to build. It’s easier to focus on your internal feelings with your eyes closed, so please keep them closed during the rest of the session. Concentrate now on your breathing. Take a deep breath and hold it. Think about the tension building up while you hold it, and then let it go all at once. Feel how much more relaxed you feel already, as you start breathing normally again. Each time you breathe out you will feel more relaxed than you did before. Concentrate on your breathing for a while. Each time you breathe out say the word ‘Relax’ to yourself, so helping to cut out other thoughts from your mind. Continue to do this for several moments.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Notice that while you do this your body will feel heavy, but as you become more relaxed your head clears. You’re more aware, you can thinkclearly and feel completely calm and serene. I’m now going to concentrate on helping you to learn complete physical relaxation to enhance these feelings. I will ask you to go through a series of tensing and relaxation exercises, so that you can learn to release the tension in every part of your body. The trick is to tense each part of your body as I ask you, and keep the tension for several moments, and then to release it all at once.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Let’s begin with your hand. Now clench your fist really tightly, so hard that your fingers are digging into your palms. Hold it there for a few seconds and then let it go all at once. You will feel the tension release as you do so, and it is replaced by a pleasant and relaxed feeling. Now tense the hand again, but this time try to ensure that it is just your hand that is tense, so that the rest of your body remains relaxed. Tense your hand and slowly count to 10. Feel the contrast between the tension in your hand and the relaxation in the rest of your body. When you have counted to 10 release your hand, and let the relaxation from the rest of your body flow into your hand. Now repeat this exercise with the other hand. Clench your fist really hard until it hurts. Count to 10 and then release it. See how pleasant you begin to feel now that you are gaining control of physical and mental tension.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "In order to increase your ability to do this and to achieve even more complete relaxation I want you to learn to tense and relax each part of your body by starting with your toes and moving right up to your head. Doing this will enable you to achieve complete physical relaxation. While you do the physical exercises concentrate on your internal feeling of relaxation and mental calmness. Let’s start with your toes. Curl them up and stretch your foot. First your right and then your left. Then tense the muscles in your legs, your calves and thighs. Now tense your buttocks and your stomach. As the tension moves up through the body into your chest take a deep breath and hold it just as you did before. Now feel the tension moving into your shoulder blades, up into your neck and into your face. Feel the tension by clenching your teeth, screwing up your eyes, and frowning to bring the tension right up through your forehead to the top of your head. Now hold this state of tension for as long as you can, and as I count to 3 let the tension go all at once. One, two, three. Release and breathe out slowly. As you do so feel your muscles begin to relax. As you breathe slowly and evenly you will feel more relaxed. Your body will begin to feel heavy but relaxed, and you will feel pleasantly calm and warm, rather as though you have just woken naturally from a relaxing sleep. You will feel physically rested but mentally aware. While you are feeling relaxed in this way think of a situation in which you are feeling completely at ease with no tension, worries or anxieties. Perhaps you can imagine that you are floating effortlessly down a beautiful stretch of river, lying in a comfortable boat on a beautiful, sunny day. You are at peace with yourself and the world while you are doing this. Imagine yourself in this or some other similar situation. Concentrate on your gentle breathing while you do this, and check that all your muscles are still relaxed. You will notice that while you’re in this relaxed state your mind becomes clearer and clearer. You are able to deal easily with your thoughts as they come and go, and to focus your mind clearly.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "As you become more skilled in training yourself to relax at will you will learn that for you tension begins to build up in particular places. It maybe your shoulders or your hands. Try to become aware of these places as you will be able to check the tension in these parts of your body frequently. It will enable you to have an early warning system that tension and anxiety are building up, and that you need to take steps to relax. You will find that you can use this technique to stop little annoyances building up during the day, so that you do not end up feeling stressed and over-tired with a crushing headache.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Check now throughout your body starting with your toes and your legs, buttocks, stomach, chest, shoulders and finally your neck, face, and hands. Find any areas where physical tension has begun to return. To do this tighten your fist a little and then release. Let the muscles in your hand and fingers droop completely. Check that your arm is also fully relaxed. Now make sure that all the other areas of your body are as fully relaxed as your hand and arm.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Take special notice that there is no tension in your face, shoulders or neck as these are often tense areas of which we are not aware. Let your mouth drop slightly open so that your jaw is relaxed, and also your shoulders drop slightly. Now that you are still completely relaxed think again of your imaginary situation. Whether its floating down a river or whatever. Enjoy the warm and peaceful feeling. Enjoy feeling calm and serene, and at one with yourself and surroundings. Enjoy knowing that you can now return to these feelings of peace at will through total relaxation. Continue to relax for a few moments more.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "I shall now count backwards slowly from 10. While I do so allow the muscle tension to return gradually, but don’t let the feelings of peace go, and when I reach 5 let your eyes open and then begin to stretch a little. 10, 9, 8, 7, 6, 5, 4, 3, 2, 1. Open your eyes now, and get up and enjoy the feeling of relaxation which you have.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Welcome to the second relaxation exercise. This focuses on mental preparation and revision for the exam itself.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Exercise 2 – Mental Relaxation",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Make sure that you are sitting completely comfortably, with your legs outstretched and uncrossed, arms by your side. Let your eyes close, breathe slowly and focus on the key word which is ‘Relax’, and let your body unwind and relax more. Keep your breathing regular and shallow, and every time you breathe out relax a little more. There is no tension in your hands, arms and shoulders. There is no tension in your neck, or your forehead, and your eyes are lightly closed, and there is no tension around your eyes. There is no tension in your jaw. Your teeth are slightly apart, and your lips are lightly together, and your tongue is relaxed. There is no tension in your stomach muscles, your hips, or your back, or your legs. Your chest is relaxed and at ease. You’re breathing more slowly and comfortably, and every time you breathe out you relax a little more. Focus on the key word ‘Relax’ and allow your body to unwind more and more, and become deeply relaxed. Just feel the relief of letting go.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Now imagine that you are going into the exam. As you listen to each thing I say imagine the situation as vividly as you can possibly can. Imagine the sights, the smells, and the people present. The invigilator, the clock, the exam question paper, your pen and imagine yourself in the situation doing the exam. Try to put in as much detail as possible, and try and see the images in colour, occupying space, and make them as realistic as possible. Absorb all the details as closely as you can, and if at any time you begin to feel anxious immediately use your relaxation to keep the anxiety low and under control. Above all see yourself in the exam room taking time to read the question, taking time to plan your answer, performing slowly but confidently and effectively, and in a relaxed way. Don’t hide from any detail that might make the situation more realistic. Use your relaxation, use the key word ‘Relax’ to control the anxiety that comes up, but don’t allow the anxiety to spiral. Notice when it begins and use the relaxation response to keep it all under control. Imagine how you feel, how well you are performing, and now begin to see yourself more and more confident, relaxed and at ease. See yourself going into the exam room, even enjoying the process of doing the exam. Remember you’re doing the exam for you, for no-one else. Say, ‘I can pass my exam if I focus on relaxing’, any time you feel anxiety arise. Say to yourself, ‘I can make this OK by looking for positive features in the situation’. Think for the moment of some of the positive features.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Go back and again imagine moving slowly and comfortably to your desk. Do not rush away if a little anxiety begins. Use your relaxation and your self-encouragement to put this anxiety under control. Imagine yourself being confident and easy for some moments. Say to yourself I will use the sights through the window to help me control my anxiety. I could count the cars, or trees, or lights. I will use quick relaxation to control my anxiety. Check over all your body and feel the relaxation. Feel the excitement of free attention to answer the questions. Say to yourself ‘I know that I can do it’. Now continue to concentrate on the relaxation for a few more minutes, and then when you are ready open your eyes and come back to the room.",
+                          "spans": []
+                        },
+                        {
+                          "type": "paragraph",
+                          "text": "Stretch your body, your arms, legs, back, neck and take a moment to feel what your body feels like after it has been really relaxed.",
+                          "spans": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": null,
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "heading2",
+                        "text": "Further help",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "More information can be found from Mind, the mental health charity. In particular, see their How to cope with student life page.",
+                        "spans": [
+                          {
+                            "start": 35,
+                            "end": 66,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://www.mind.org.uk/information-support/"
+                            }
+                          },
+                          {
+                            "start": 93,
+                            "end": 122,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://www.mind.org.uk/information-support/tips-for-everyday-living/student-life/about-student-mental-health/"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Access support",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Current OU students can access free mental health and wellbeing support through our partnerships with Shout 85258 and TalkCampus.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "Shout 85258 offers free and confidential text message support to anyone in the UK who is struggling to cope. Text OU to 85258 to start a conversation with a trained volunteer, at any time, day or night.",
+                        "spans": [
+                          {
+                            "start": 114,
+                            "end": 116,
+                            "type": "strong"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "For more information about this service see our Shout 85258 article.",
+                        "spans": [
+                          {
+                            "start": 48,
+                            "end": 67,
+                            "type": "hyperlink",
+                            "data": {
+                              "id": "YWb27RMAACMAlw4r",
+                              "type": "help_article",
+                              "tags": [],
+                              "lang": "en-gb",
+                              "slug": "shout-85258-free-247-text-message-support-service",
+                              "first_publication_date": "2021-10-19T23:05:02+0000",
+                              "last_publication_date": "2022-12-20T14:48:24+0000",
+                              "link_type": "Document",
+                              "isBroken": false
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "TalkCampus provides a safe, totally anonymous online space to air concerns with other students and get support for your mental health and wellbeing. It’s available to you 24 hours a day, seven days a week.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "For more information and to download the app, see our TalkCampus article.",
+                        "spans": [
+                          {
+                            "start": 54,
+                            "end": 64,
+                            "type": "hyperlink",
+                            "data": {
+                              "id": "YzL-RhEAACQAJg5D",
+                              "type": "help_article",
+                              "tags": [],
+                              "lang": "en-gb",
+                              "slug": "talkcampus-247-free-anonymous-peer-support",
+                              "first_publication_date": "2022-09-30T23:01:00+0000",
+                              "last_publication_date": "2022-12-20T15:13:07+0000",
+                              "link_type": "Document",
+                              "isBroken": false
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "If you have queries about your study, please contact your student support team.",
+                        "spans": [
+                          {
+                            "start": 58,
+                            "end": 78,
+                            "type": "hyperlink",
+                            "data": {
+                              "link_type": "Web",
+                              "url": "https://help.open.ac.uk/contact#ssts"
+                            }
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }

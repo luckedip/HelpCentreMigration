@@ -1,0 +1,10 @@
+{
+  "DEV": {
+    "projectId": "007a60d1-b77f-0164-7de5-4f7f0f914d9a",
+    "apiKey": "ew0KICAiYWxnIjogIkhTMjU2IiwNCiAgInR5cCI6ICJKV1QiDQp9.ew0KICAianRpIjogIjlhNjI0MGJkYzU3MzQyZWNhNTE1NzMxZjI3YTA1OGE5IiwNCiAgImlhdCI6ICIxNjgxOTc5MjYxIiwNCiAgImV4cCI6ICIxNzQ1MTM3NjIwIiwNCiAgInZlciI6ICIzLjAuMCIsDQogICJ1aWQiOiAiNjAzNGJhM2M3N2M4YWUwMDcwOTYyNDFjIiwNCiAgInByb2plY3RfY29udGFpbmVyX2lkIjogIjdkN2EyOTVmYTRmNDAxMzExY2FjMDYwMDEzNDVkNmQ0IiwNCiAgImF1ZCI6ICJtYW5hZ2Uua2VudGljb2Nsb3VkLmNvbSINCn0.nSWrNYnyK1kA-bLXVIo06N1Cr4wefiiJbBJn6a6efSc"
+  },
+  "PROD": {
+    "projectId": "your-project-id",
+    "apiKey": "your-management-API-key"
+  }
+}

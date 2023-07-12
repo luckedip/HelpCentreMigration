@@ -1,0 +1,45 @@
+... on Help_articleBodyHtml {
+    type
+    label
+    primary {
+      code
+    }
+  }
+... on Help_articleBodySteps {
+            type
+            fields {
+              steps_text
+              steps_title
+            }
+          }
+
+
+
+
+
+
+        keywords
+        audiences
+        hide_from_search
+        notes
+        related_links_description
+        related_links {
+          related_links_link {
+            ... on _ExternalLink {
+              url
+              target
+            }
+          }
+          related_links_title
+          related_links_description
+        }
+        article_user_needs {
+          ... on _ExternalLink {
+            url
+            target
+          }
+        }
+        article_purpose
+        article_contact
+
+  

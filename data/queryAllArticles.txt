@@ -1,0 +1,41 @@
+query allArticles {
+  allHelp_articles(after: "Xrv4yxAAACAAZujr", first: 99) {
+    pageInfo {
+      hasNextPage
+      hasPreviousPage
+      startCursor
+      endCursor
+    }
+    totalCount
+    edges {
+      node {
+        _meta {
+          id        
+        }
+        title
+        body {
+        	...on Help_articleBodyNote {type}
+            ...on Help_articleBodyHtml {type}
+        	...on Help_articleBodyTable {type}
+        	...on Help_articleBodyImage {type}
+        	...on Help_articleBodyVideo {type}
+        	...on Help_articleBodyAudio {type}
+        	...on Help_articleBodySteps {type}
+        	...on Help_articleBodyQuote {type}
+            ...on Help_articleBodyHeading {type}
+        	...on Help_articleBodyDocument {type}
+        	...on Help_articleBodyRich_text {type}
+        	...on Help_articleBodyIcon_list {type}
+        	...on Help_articleBodyLink_list {type}
+        	...on Help_articleBodyAction_link {type}
+        	...on Help_articleBodyBack_to_top {type}
+        	...on Help_articleBodyClear_float {type}
+        	...on Help_articleBodyIntroduction {type}
+        	...on Help_articleBodyOn_this_page {type}
+        	...on Help_articleBodyCalendar_banner {type}
+        }
+      }
+    }
+  }
+}
+

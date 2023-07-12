@@ -1,0 +1,121 @@
+{
+    "data": {
+      "allHelp_articles": {
+        "edges": [
+          {
+            "node": {
+              "_meta": {
+                "id": "Xr0u8hAAACAAbCFx"
+              },
+              "title": "Setting up separate accounts on your computer",
+              "description": "The benefits of a separate account for study on your computer",
+              "keywords": "distractions, productivity, concentration, parental controls,",
+              "audiences": "student, apprentice",
+              "hide_from_search": false,
+              "article_purpose": null,
+              "article_contact": null,
+              "related_links_description": null,
+              "related_links": [
+                {
+                  "related_links_link": {
+                    "url": "https://edu.gcfglobal.org/en/topics/windows/"
+                  },
+                  "related_links_title": "LearnFree (PC users)",
+                  "related_links_description": null
+                },
+                {
+                  "related_links_link": {
+                    "url": "https://support.apple.com/en-gb/guide/mac-help/mtusr001/mac"
+                  },
+                  "related_links_title": "Apple support (Mac users)",
+                  "related_links_description": null
+                }
+              ],
+              "related_links_enabled": true,
+              "notes": null,
+              "body": [
+                {
+                  "type": "introduction",
+                  "primary": {
+                    "introduction_text": "This article describes the benefits of separate accounts on your computer, but doesn't go into details about how to set them up. The procedures vary between versions of operating systems and we provide useful links at the foot of this article to help you."
+                  }
+                },
+                {
+                  "type": "rich_text",
+                  "primary": {
+                    "rich_text_content": [
+                      {
+                        "type": "paragraph",
+                        "text": "Many people share their computer with family members or work colleagues. Fortunately, modern operating systems make it easy for each person to have their own private space on the computer so that there's no mixing up of files and resources. Even if you have sole use of your computer there’s a case for maintaining more than one account.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Security, peace of mind and greater productivity",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "As a student working online, you'll invest many hours in gathering material, saving it, annotating it and writing about it. You can safeguard that work by preventing any interference, intentional or otherwise, by other people. With your own account, protected with a private password, you get peace of mind.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "There’s also a worthwhile boost in productivity because everything is where you left it when you last used the computer.",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "The list of recently used files in the word processor is the list of files you last used, not those that other people used.",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Your email program contains only your accounts and you can quickly see what’s new and important.",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "You can set up rules in email to process your incoming post without it tangling with other people’s post.",
+                        "spans": []
+                      },
+                      {
+                        "type": "list-item",
+                        "text": "Your bookmarks and browsing history are as you left them and don't include other's browsing history.",
+                        "spans": []
+                      },
+                      {
+                        "type": "heading2",
+                        "text": "Reduce distractions with a study-only account",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "It's a recognised characteristic of online study that the distractions of the wider internet can draw attention away from the business of learning. If you waste time on distractions you might want to consider setting up a study-only account. It isn’t for everybody but it can really benefit your concentration.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "You set up a separate account as a non-administrator (Standard) account that limits the scope of what you can do. You can arrange to access only your OU-related email accounts, and all your browser bookmarks would be study related. You could even use the parental controls to block browser access to the most tempting websites and applications.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "It’s the online equivalent of making a good working atmosphere in your place of study, with as few distractions as possible.",
+                        "spans": []
+                      },
+                      {
+                        "type": "paragraph",
+                        "text": "You can, of course, still get to all the distractions easily by signing out of your study account and in to your normal account.",
+                        "spans": []
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  }

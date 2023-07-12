@@ -1,0 +1,33 @@
+query Articles {
+  allHelp_articles(id_in:["Xr0u8hAAACAAbCFx"]) {
+    edges {
+      node {
+        _meta {id}
+        title description keywords audiences hide_from_search article_purpose article_contact
+        related_links_description related_links {related_links_link { ... on _ExternalLink {url}}
+        related_links_title related_links_description} related_links_enabled
+        notes
+        body {
+          ... on Help_articleBodyIntroduction {type primary {introduction_text}}
+          ... on Help_articleBodyOn_this_page {type primary {style}}
+          ... on Help_articleBodyHeading {type primary {heading}}
+          ... on Help_articleBodyBack_to_top {type}
+          ... on Help_articleBodyRich_text {type primary {rich_text_content}}
+          ... on Help_articleBodyIcon_list {type fields {list_item} primary {list_style}}
+          ... on Help_articleBodyQuote {type primary {quote_text quote_layout quote_citation}}
+          ... on Help_articleBodyNote {type primary {note_body note_style note_title}}
+          ... on Help_articleBodySteps {type fields {steps_text steps_title}}
+          ... on Help_articleBodyLink_list {type fields {link_list_link {_linkType __typename ... on _ExternalLink {url}} link_list_title link_list_description}}
+          ... on Help_articleBodyClear_float {type}
+          ... on Help_articleBodyTable {type primary {csv_data row_headers_wrap column_min_width markdown_enabled column_headers_wrap row_headers_enabled column_equal_widths column_headers_sticky column_headers_enabled bordered markdown_enabled caption striped layout}}
+          ... on Help_articleBodyAudio {type fields {audio_url {_linkType ... on _ExternalLink {url}} audio_title audio_duration audio_transcript}}
+          ... on Help_articleBodyAction_link {type primary {style action_link_link {... on _ExternalLink {url}} action_link_title}}
+          ... on Help_articleBodyHtml {type label primary {code}}
+          ... on Help_articleBodyImage {type primary {image_source image_caption image_layout bordered}          }
+          ... on Help_articleBodyDocument {type primary {document {... on _Document {_meta {id}}} anchor}}
+          ... on Help_articleBodyVideo {type fields {video_title video_url {... on _ExternalLink {url}} video_poster {... on _ExternalLink {url}} video_duration video_transcript}}
+        }
+      }
+    }
+  }
+}
